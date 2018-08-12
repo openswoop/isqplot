@@ -9,18 +9,10 @@ Figures are drawn using ggplot2.
 library(ggplot2)
 library(ggalt)
 library(scales)
-library(tidyr)
+library(dplyr)
 ```
 
 ### Data
-
-The necessary columns are:
-
-  - course
-  - term
-  - instructor
-  - rating (numeric)
-  - average\_gpa (numeric)
 
 This example uses data from Computer Science 1 from 2012-2018, available
 at [`data/COP2220.csv`](data/COP2220.csv). The code can be adapted to
@@ -31,12 +23,22 @@ how to generate CSVs for other UNF courses.
 ``` r
 course <- "COP2220"
 df <- read.csv(paste0("data/", course, ".csv")) %>%
-  drop_na("course", "term", "instructor", "rating", "average_gpa")
+  select(course, term, instructor, rating, average_gpa) %>%
+  na.omit()
 ```
 
+|    | course  | term        | instructor | rating | average\_gpa |
+| -- | :------ | :---------- | :--------- | -----: | -----------: |
+| 5  | COP2220 | Spring 2018 | Jethwani   |   3.38 |         2.91 |
+| 6  | COP2220 | Spring 2018 | Jethwani   |   3.71 |         2.11 |
+| 7  | COP2220 | Spring 2018 | Liu        |   3.14 |         2.59 |
+| 8  | COP2220 | Spring 2018 | Jethwani   |   2.86 |         3.15 |
+| 9  | COP2220 | Spring 2018 | Liu        |   3.16 |         2.92 |
+| 10 | COP2220 | Spring 2018 | Monsorno   |   2.46 |         2.37 |
+
 Based on the file name, we can determine if the file represents one
-course and various professors or one professor and various courses. The
-*feature* we’re plotting is whichever one varies (as the other will be
+course and various professors, like above, or one professor and various
+courses. We’re plotting the *feature* that varies (as the other will be
 constant).
 
 ``` r
@@ -75,10 +77,7 @@ ggplot(df, aes(x = rating, y = average_gpa, color = feature)) +
 ``` r
 # Add a plot margin to make it look pretty
 last_plot() + theme(plot.margin = margin(2, 2, 2, 2, "cm"))
-ggsave(
-  paste0(course, ".png"),
-  width = 15,
-  height = 8,
-  dpi = 100
-)
+
+# Save as a 15 x 8 inch image
+ggsave(paste0(course, ".png"), width = 15, height = 8, dpi = 100)
 ```

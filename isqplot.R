@@ -1,19 +1,12 @@
 #' ### Dependencies
 #' Figures are drawn using ggplot2.
+#+ message=FALSE
 library(ggplot2)
 library(ggalt)
 library(scales)
-library(tidyr)
+library(dplyr)
 
 #' ### Data
-#' The necessary columns are:
-#'
-#' * course
-#' * term
-#' * instructor
-#' * rating (numeric)
-#' * average_gpa (numeric)
-#'
 #' This example uses data from Computer Science 1 from 2012-2018, available at
 #' [`data/COP2220.csv`](data/COP2220.csv). The code can be adapted to use data
 #' from any source so long as all the required columns are satisfied. Check out
@@ -21,11 +14,14 @@ library(tidyr)
 #' other UNF courses.
 course <- "COP2220"
 df <- read.csv(paste0("data/", course, ".csv")) %>%
-  drop_na("course", "term", "instructor", "rating", "average_gpa")
+  select(course, term, instructor, rating, average_gpa) %>%
+  na.omit()
+
+#' `r knitr::kable(head(df))`
 
 #' Based on the file name, we can determine if the file represents one course
-#' and various professors or one professor and various courses. The *feature*
-#' we're plotting is whichever one varies (as the other will be constant).
+#' and various professors, like above, or one professor and various courses.
+#' We're plotting the *feature* that varies (as the other will be constant).
 if (startsWith(course, "N") && nchar(course) == 9) {
   feature <- "Course"
   df$feature <- df$course
@@ -55,9 +51,6 @@ ggplot(df, aes(x = rating, y = average_gpa, color = feature)) +
 #+ eval=FALSE
 # Add a plot margin to make it look pretty
 last_plot() + theme(plot.margin = margin(2, 2, 2, 2, "cm"))
-ggsave(
-  paste0(course, ".png"),
-  width = 15,
-  height = 8,
-  dpi = 100
-)
+
+# Save as a 15 x 8 inch image
+ggsave(paste0(course, ".png"), width = 15, height = 8, dpi = 100)
