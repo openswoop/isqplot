@@ -1,16 +1,3 @@
-#' ---
-#' title: "ISQ Plot"
-#' author:
-#' date:
-#' output:
-#'   github_document:
-#'     fig_width: 9
-#'     fig_height: 6
-#' ---
-#' 
-#+ r setup, include = FALSE
-knitr::opts_chunk$set(fig.path="figs/")
-
 #' ### Dependencies
 #' Figures are drawn using ggplot2.
 library(ggplot2)
