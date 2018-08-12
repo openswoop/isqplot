@@ -7,6 +7,7 @@ Figures are drawn using ggplot2.
 
 ``` r
 library(ggplot2)
+library(ggplot2bdc)
 library(ggalt)
 library(scales)
 library(dplyr)
@@ -27,14 +28,14 @@ df <- read.csv(paste0("data/", course, ".csv")) %>%
   na.omit()
 ```
 
-|    | course  | term        | instructor | rating | average\_gpa |
-| -- | :------ | :---------- | :--------- | -----: | -----------: |
-| 5  | COP2220 | Spring 2018 | Jethwani   |   3.38 |         2.91 |
-| 6  | COP2220 | Spring 2018 | Jethwani   |   3.71 |         2.11 |
-| 7  | COP2220 | Spring 2018 | Liu        |   3.14 |         2.59 |
-| 8  | COP2220 | Spring 2018 | Jethwani   |   2.86 |         3.15 |
-| 9  | COP2220 | Spring 2018 | Liu        |   3.16 |         2.92 |
-| 10 | COP2220 | Spring 2018 | Monsorno   |   2.46 |         2.37 |
+| course  | term        | instructor | rating | average\_gpa |
+| :------ | :---------- | :--------- | -----: | -----------: |
+| COP2220 | Spring 2018 | Jethwani   |   3.38 |         2.91 |
+| COP2220 | Spring 2018 | Jethwani   |   3.71 |         2.11 |
+| COP2220 | Spring 2018 | Liu        |   3.14 |         2.59 |
+| COP2220 | Spring 2018 | Jethwani   |   2.86 |         3.15 |
+| COP2220 | Spring 2018 | Liu        |   3.16 |         2.92 |
+| COP2220 | Spring 2018 | Monsorno   |   2.46 |         2.37 |
 
 Based on the file name, we can determine if the file represents one
 course and various professors, like above, or one professor and various
@@ -61,13 +62,16 @@ ggplot(df, aes(x = rating, y = average_gpa, color = feature)) +
   scale_size_continuous(labels = percent, range = c(1, 2.5)) +
   guides(size = guide_legend(override.aes = list(linetype = 0))) +
   labs(
-    title = course,
-    subtitle = "University of North Florida",
+    title = paste0(course),
+    subtitle = paste0("Course evaluation results from ", nrow(df), " classes"),
+    caption = "Source: UNF ISQ Departmental Data Summary",
     color = feature,
     fill = feature,
-    x = "Rating",
+    x = "Average Student Rating",
     y = "Average GPA"
-  )
+  ) +
+  theme_bdc_grey(grid.x = TRUE, grid.y = TRUE) +
+  theme(legend.position = "right", legend.direction = "vertical", legend.title.align = 0)
 ```
 
 ![](figs/scatterplot-1.png)<!-- -->
@@ -79,5 +83,5 @@ ggplot(df, aes(x = rating, y = average_gpa, color = feature)) +
 last_plot() + theme(plot.margin = margin(2, 2, 2, 2, "cm"))
 
 # Save as a 15 x 8 inch image
-ggsave(paste0(course, ".png"), width = 15, height = 8, dpi = 100)
+ggsave(paste0(course, ".png"), width = 14, height = 8, dpi = 100)
 ```

@@ -2,6 +2,7 @@
 #' Figures are drawn using ggplot2.
 #+ message=FALSE
 library(ggplot2)
+library(ggplot2bdc)
 library(ggalt)
 library(scales)
 library(dplyr)
@@ -17,7 +18,7 @@ df <- read.csv(paste0("data/", course, ".csv")) %>%
   select(course, term, instructor, rating, average_gpa) %>%
   na.omit()
 
-#' `r knitr::kable(head(df))`
+#' `r knitr::kable(head(df), row.names = FALSE)`
 
 #' Based on the file name, we can determine if the file represents one course
 #' and various professors, like above, or one professor and various courses.
@@ -39,13 +40,16 @@ ggplot(df, aes(x = rating, y = average_gpa, color = feature)) +
   scale_size_continuous(labels = percent, range = c(1, 2.5)) +
   guides(size = guide_legend(override.aes = list(linetype = 0))) +
   labs(
-    title = course,
-    subtitle = "University of North Florida",
+    title = paste0(course),
+    subtitle = paste0("Course evaluation results from ", nrow(df), " classes"),
+    caption = "Source: UNF ISQ Departmental Data Summary",
     color = feature,
     fill = feature,
-    x = "Rating",
+    x = "Average Student Rating",
     y = "Average GPA"
-  )
+  ) +
+  theme_bdc_grey(grid.x = TRUE, grid.y = TRUE) +
+  theme(legend.position = "right", legend.direction = "vertical", legend.title.align = 0)
 
 #' #### Saving to an image
 #+ eval=FALSE
@@ -53,4 +57,4 @@ ggplot(df, aes(x = rating, y = average_gpa, color = feature)) +
 last_plot() + theme(plot.margin = margin(2, 2, 2, 2, "cm"))
 
 # Save as a 15 x 8 inch image
-ggsave(paste0(course, ".png"), width = 15, height = 8, dpi = 100)
+ggsave(paste0(course, ".png"), width = 14, height = 8, dpi = 100)

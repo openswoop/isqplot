@@ -4,7 +4,7 @@ output: github_document
 ---
 
 ```{r setup, include = FALSE}
-knitr::opts_chunk$set(fig.width = 9, fig.height = 5, fig.path="figs/")
+knitr::opts_chunk$set(fig.width = 9, fig.height = 6, fig.path="figs/")
 ```
 
 ```{r load_chunk, include=FALSE}
