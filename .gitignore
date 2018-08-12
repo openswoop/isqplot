@@ -6,3 +6,5 @@
 # Project files
 *.png
 *.csv
+!data/*.csv
+!figs/*.png

@@ -1,0 +1,12 @@
+---
+title: "ISQ Plot"
+output: github_document
+---
+
+```{r load_chunk, include=FALSE}
+chunk <- knitr::spin(text = readLines("isqplot.R"), report = FALSE, knit = TRUE)
+```
+
+```{r print_chunk, results='asis', echo=FALSE}
+cat(chunk, sep = "\n")
+```
