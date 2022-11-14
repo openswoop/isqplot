@@ -1,0 +1,18 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+IDH3924,Summer 2022,54872,Tucker,25,7,28,85.71,0,0,0,0,5,0,0,0,0,0,0,,,,Online,,0,Hicks Honors Pre-Capstone Symposium
+IDH3924,Spring 2022,12265,Peter,24,13,54.17,38.46,23.08,30.77,0,0,4.08,0,0,0,0,0,0,,,,Online,,0,Hicks Honors Pre-Capstone Symposium
+IDH3924,Spring 2022,13175,Tucker,22,13,59.09,76.92,15.38,7.69,0,0,4.69,0,0,0,0,0,0,,,,Online,,0,Hicks Honors Pre-Capstone Symposium
+IDH3924,Spring 2022,13177,Stuber,15,6,40,83.33,16.67,0,0,0,4.83,0,0,0,0,0,0,1505,75,T,39,2002,1,Hicks Honors Pre-Capstone Symposium
+IDH3924,Fall 2021,86945,Tucker,19,6,31.58,50,16.67,16.67,0,0,4.4,0,0,0,0,0,0,,,,Online,,0,Hicks Honors Pre-Capstone Symposium
+IDH3924,Fall 2021,86944,Peter,20,8,40,62.5,12.5,0,25,0,4.13,0,0,0,0,0,0,,,,Online,,0,Hicks Honors Pre-Capstone Symposium
+IDH3924,Fall 2021,86943,Chamberlain,19,8,42.11,62.5,25,12.5,0,0,4.5,0,0,0,0,0,0,1630,45,TR,2,2222,1,Hicks Honors Pre-Capstone Symposium
+IDH3924,Summer 2021,53286,Tucker,15,6,40,83.33,0,0,0,0,5,0,0,0,0,0,0,,,,Online,,0,Hicks Honors Pre-Capstone Symposium
+IDH3924,Spring 2021,13574,Stuber,17,9,52.94,100,0,0,0,0,5,0,0,0,0,5.88,0,1505,50,T,51,1209,0,Hicks Honors Pre-Capstone Symposium
+IDH3924,Spring 2021,13380,Chamberlain,25,13,52,92.31,7.69,0,0,0,4.92,0,0,0,0,0,0,,,,Online,,0,Hicks Honors Pre-Capstone Symposium
+IDH3924,Spring 2021,13383,Tucker,24,9,37.5,66.67,33.33,0,0,0,4.67,0,0,0,0,0,0,,,,Online,,0,Hicks Honors Pre-Capstone Symposium
+IDH3924,Spring 2021,13377,Peter,21,9,42.86,11.11,22.22,44.44,0,0,3.57,0,0,0,0,0,0,,,,Online,,0,Hicks Honors Pre-Capstone Symposium
+IDH3924,Spring 2021,13570,Kershner,20,14,70,50,21.43,28.57,0,0,4.21,0,0,0,0,0,0,,,,Online,,1,Hicks Honors Pre-Capstone Symposium
+IDH3924,Fall 2020,83744,Chamberlain,19,7,36.84,85.71,14.29,0,0,0,4.86,0,0,0,0,0,0,,,,Online,,0,Hicks Honors Pre-Capstone Symposium
+IDH3924,Fall 2020,83742,Peter,15,6,40,83.33,0,16.67,0,0,4.67,0,0,0,0,0,0,,,,Online,,1,Hicks Honors Pre-Capstone Symposium
+IDH3924,Fall 2020,83743,Tucker,15,8,53.33,50,25,12.5,0,0,4.43,0,0,0,0,0,0,,,,Online,,0,Hicks Honors Pre-Capstone Symposium
+IDH3924,Fall 2019,83735,Peter,22,10,45.45,60,10,30,0,0,4.3,0,0,0,0,0,0,,,,Online,,0,Hicks Honors Pre-Capstone Symposium

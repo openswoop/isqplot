@@ -1,0 +1,268 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+STA2014,Summer 2022,53539,Jia,13,4,30.77,75,25,0,0,0,4.75,23.07,61.54,7.69,0,7.69,2.95,1050,100,TRF,15,1202,3,Elementary Statistics for Health and Social Sciences
+STA2014,Summer 2022,54625,Safar,17,5,29.41,40,0,20,20,0,3.75,0,0,0,0,0,0,1240,100,TRF,39,1026,3,Elementary Statistics for Health and Social Sciences
+STA2014,Summer 2022,53805,Mechmech,49,6,12.24,66.67,16.67,0,16.67,0,4.33,28.57,26.52,28.57,4.08,12.24,2.56,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Summer 2022,54095,Buzaianu,41,19,46.34,36.84,21.05,15.79,5.26,15.79,3.61,6.82,15.91,22.73,2.27,43.18,1.38,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Summer 2022,54125,Grimes,43,13,30.23,38.46,7.69,38.46,7.69,7.69,3.62,4.65,27.91,46.51,9.3,11.63,2.1,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2022,13320,Razaila,33,9,27.27,11.11,22.22,22.22,11.11,11.11,3.14,8.57,20,37.14,0,28.57,1.82,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2022,13321,Razaila,31,4,12.9,0,0,50,25,0,2.67,8.57,25.71,31.43,5.71,17.14,2.07,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2022,11185,Jones,33,23,69.7,56.52,34.78,0,4.35,0,4.5,18.92,18.92,29.73,10.81,10.81,2.28,1630,75,MW,10,1319,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2022,10792,Grimes,8,3,37.5,33.33,33.33,0,0,33.33,3.33,8.33,0,16.66,16.67,25,1.29,1340,75,TR,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2022,11881,Kennon,34,13,38.24,84.62,15.38,0,0,0,4.85,39.47,34.2,7.89,0,7.89,3.08,0900,75,MW,42,2124,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2022,10794,Jones,31,7,22.58,71.43,28.57,0,0,0,4.71,21.62,10.81,24.33,5.41,21.62,2.09,1050,75,TR,10,1353,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2022,10900,Mechmech,36,14,38.89,57.14,28.57,0,14.29,0,4.29,29.73,32.43,24.33,0,10.81,2.74,1800,75,TR,10,1343,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2022,11186,Hoyt,28,7,25,42.86,28.57,0,14.29,0,4.17,17.64,20.59,26.47,5.88,11.76,2.35,1340,75,TR,10,1345,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2022,10790,Grimes,13,1,7.69,100,0,0,0,0,5,0,0,30,0,20,1.23,1340,75,TR,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2022,11882,Safar,36,10,27.78,40,10,40,0,0,4,54.05,29.72,10.8,0,2.7,3.39,1030,75,MW,39,2006,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2022,13178,Hoyt,25,6,24,50,0,16.67,16.67,0,4,9.09,21.21,18.18,9.09,18.18,1.96,1030,75,MW,10,1319,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2022,13331,Wagh,37,16,43.24,50,12.5,6.25,18.75,6.25,3.87,10,32.5,27.5,7.5,15,2.15,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2022,11053,Buzaianu,36,26,72.22,46.15,23.08,23.08,0,3.85,4.12,20.51,25.63,25.64,15.38,5.13,2.5,1200,75,MW,10,1327,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2022,11297,Hoyt,29,9,31.03,44.44,33.33,11.11,11.11,0,4.11,22.86,17.14,25.71,2.86,14.29,2.45,1505,75,TR,10,1319,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2022,11187,Jones,29,10,34.48,90,10,0,0,0,4.9,8.33,22.22,13.89,19.44,16.67,1.84,0925,75,TR,10,1319,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2022,11183,Buzaianu,28,16,57.14,50,31.25,18.75,0,0,4.31,11.43,37.14,22.86,0,8.57,2.56,0900,75,MW,10,1343,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2022,10789,Grimes,26,6,23.08,0,66.67,16.67,0,16.67,3.33,5.72,5.72,22.86,11.43,28.57,1.3,1340,75,TR,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2022,11182,Kim,31,10,32.26,80,0,10,10,0,4.5,18.18,18.18,24.24,15.15,18.18,2.06,1930,75,TR,10,1327,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2022,12042,Wagh,38,11,28.95,36.36,27.27,9.09,0,9.09,4,27.5,32.5,17.5,5,12.5,2.57,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,86990,Razaila,30,19,63.33,15.79,10.53,26.32,26.32,0,3.2,17.14,34.29,17.14,5.71,8.57,2.55,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,86137,Wagh,31,11,35.48,81.82,9.09,0,9.09,0,4.64,25.71,28.57,14.28,11.43,8.57,2.56,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,85519,Jia,9,4,44.44,50,50,0,0,0,4.5,30,20,20,10,10,2.52,1030,75,MW,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,85736,Stewart,24,12,50,91.67,0,8.33,0,0,4.83,20,26.65,16.66,13.33,3.33,2.61,1800,75,MW,10,1343,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,85529,Herrera,14,3,21.43,0,33.33,33.33,0,33.33,2.67,18.75,31.25,12.5,12.5,12.5,2.36,1400,50,MWF,10,1343,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,85369,Sa,22,8,36.36,62.5,12.5,12.5,12.5,0,4.25,15.38,23.08,19.23,11.54,15.38,2.16,1200,75,MW,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,85198,Buzaianu,29,10,34.48,30,20,30,10,0,3.78,12.5,21.89,43.76,6.25,6.25,2.36,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,85200,Buzaianu,35,13,37.14,38.46,30.77,7.69,15.38,0,4,22.5,12.5,27.5,2.5,22.5,2.11,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,86399,Griffin,24,9,37.5,22.22,33.33,11.11,22.22,0,3.63,17.86,7.14,28.57,14.29,17.86,1.94,1340,75,TR,10,1341,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,85201,Buzaianu,30,12,40,33.33,41.67,16.67,0,0,4.18,23.53,17.65,26.47,11.76,5.88,2.48,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,85372,Jia,17,4,23.53,25,0,50,0,0,3.67,14.29,28.57,19.04,0,19.05,2.2,1030,75,MW,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,85735,Stewart,28,10,35.71,60,20,10,0,0,4.56,13.33,23.33,33.34,20,3.33,2.28,1630,75,MW,10,1343,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,86138,Wagh,33,10,30.3,50,30,20,0,0,4.3,17.14,34.29,25.72,8.57,8.57,2.47,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,85370,Jia,33,9,27.27,55.56,44.44,0,0,0,4.56,25.72,37.15,20,0,11.43,2.69,1030,75,MW,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,85366,Sa,25,6,24,16.67,33.33,0,33.33,0,3.4,16.13,3.23,19.36,9.68,32.26,1.47,1200,75,MW,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,85368,Sa,26,9,34.62,22.22,22.22,22.22,22.22,0,3.5,5.88,20.59,14.7,8.82,26.47,1.7,1200,75,MW,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,85306,Buzaianu,29,14,48.28,35.71,14.29,28.57,14.29,0,3.77,15.15,15.14,27.27,18.18,12.12,2.04,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,85371,Jia,33,8,24.24,75,12.5,0,12.5,0,4.5,11.42,31.44,25.71,14.29,8.57,2.29,1030,75,MW,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,85520,Safar,24,9,37.5,22.22,11.11,22.22,11.11,33.33,2.78,48,28,8,12,0,3.2,0900,50,MWF,10,1343,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,85649,Grimes,27,11,40.74,36.36,18.18,27.27,9.09,9.09,3.64,16.13,12.91,48.39,3.23,6.45,2.34,1500,75,MW,10,1343,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,85365,Sa,21,6,28.57,16.67,33.33,16.67,0,16.67,3.4,15.15,15.15,12.12,3.03,15.15,2.22,1200,75,MW,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,86545,Jia,32,10,31.25,30,40,10,10,10,3.7,26.47,20.58,35.29,2.94,8.82,2.57,1505,75,TR,10,1341,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,86100,Razaila,25,19,76,26.32,15.79,36.84,5.26,5.26,3.59,16.13,16.13,22.58,12.9,12.9,2.13,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,86345,Heng,31,6,19.35,16.67,50,16.67,16.67,0,3.67,12.12,30.3,39.39,0,12.12,2.35,1050,75,TR,10,1343,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,88315,Bilgili,24,5,20.83,20,60,20,0,0,4,3.33,13.34,20,10,33.33,1.3,1340,75,TR,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2021,86346,Jones,31,21,67.74,66.67,23.81,4.76,0,4.76,4.48,34.38,21.88,21.88,6.25,12.5,2.6,1215,75,TR,10,1341,3,Elementary Statistics for Health and Social Sciences
+STA2014,Summer 2021,52147,Buzaianu,39,18,46.15,50,22.22,5.56,11.11,5.56,4.06,21.96,12.2,21.95,14.63,24.39,1.92,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Summer 2021,51796,Heng,33,9,27.27,44.44,22.22,0,11.11,0,4.29,17.65,29.41,35.29,14.71,0,2.49,0900,100,TRF,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Summer 2021,52650,Mechmech,42,11,26.19,45.45,27.27,9.09,0,9.09,4.1,38.09,21.42,26.19,7.14,2.38,2.91,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Summer 2021,51797,Fletcher,14,2,14.29,0,0,0,50,0,2,7.14,14.29,28.57,0,50,1.29,1050,100,TRF,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Summer 2021,52765,Kennon,44,17,38.64,82.35,17.65,0,0,0,4.82,51.11,22.23,13.33,0,11.11,3.01,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2021,11187,Heng,26,6,23.08,50,16.67,0,0,0,4.75,48.15,33.33,11.11,0,3.7,3.26,1200,75,MW,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2021,11058,Heng,32,9,28.13,44.44,22.22,33.33,0,0,4.11,32.36,20.58,23.53,5.88,11.76,2.59,1200,75,MW,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2021,11189,Johnson,32,6,18.75,0,33.33,16.67,16.67,33.33,2.5,40,31.43,11.43,0,8.57,3.03,1800,75,MW,42,1020,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2021,11191,Hoyt,31,16,51.61,62.5,12.5,18.75,0,6.25,4.25,31.43,17.14,14.29,5.71,20,2.4,0925,75,TR,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2021,10797,Sa,32,16,50,18.75,12.5,25,6.25,12.5,3.25,11.43,34.28,34.28,5.71,5.71,2.48,1050,75,TR,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2021,11190,Arthur,33,15,45.45,53.33,20,26.67,0,0,4.27,20,22.86,37.14,0,14.29,2.36,0800,75,TR,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2021,10905,Heng,36,12,33.33,50,16.67,33.33,0,0,4.17,27.03,45.95,16.22,5.41,2.7,2.95,1200,75,MW,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2021,12050,Razaila,37,29,78.38,27.59,13.79,24.14,13.79,10.34,3.38,23.08,33.33,25.64,5.13,7.69,2.64,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2021,11889,Kim,32,13,40.63,15.38,15.38,30.77,7.69,30.77,2.77,24.32,18.92,32.43,0,10.81,2.61,1505,75,TR,42,1020,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2021,10794,Sa,33,11,33.33,63.64,18.18,18.18,0,0,4.45,25.71,48.57,14.28,5.71,0,3.07,1050,75,TR,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2021,11303,Razaila,32,22,68.75,36.36,18.18,18.18,18.18,9.09,3.55,18.91,21.62,29.73,2.7,13.51,2.34,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2021,10799,Heng,31,13,41.94,53.85,38.46,7.69,0,0,4.46,26.47,29.41,17.65,0,17.65,2.42,1200,75,MW,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2021,10798,Sa,34,12,35.29,50,8.33,16.67,8.33,0,4.2,14.29,51.43,14.29,5.71,11.43,2.56,1050,75,TR,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2021,13806,Jones,31,9,29.03,77.78,0,0,22.22,0,4.33,8.57,22.86,17.14,20,20,1.8,0900,75,MW,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2021,11188,Kennon,35,14,40,42.86,35.71,14.29,0,0,4.31,34.21,26.31,18.42,2.63,7.89,2.9,1500,75,MW,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2021,10795,Sa,31,12,38.71,66.67,16.67,0,8.33,0,4.55,20,34.29,20,5.71,8.57,2.64,1050,75,TR,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2021,11192,Jia,41,17,41.46,58.82,23.53,0,17.65,0,4.24,36.58,36.59,24.39,0,2.44,3.03,1050,75,TR,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2021,11890,Hoyt,27,12,44.44,41.67,33.33,0,16.67,8.33,3.83,25.71,25.72,14.29,11.43,0,2.87,0900,75,MW,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,81141,Bilgili,25,12,48,16.67,16.67,8.33,41.67,8.33,2.91,8,16,56,0,20,1.94,1200,75,MW,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,81503,Razaila,24,19,79.17,26.32,21.05,21.05,15.79,15.79,3.26,6.67,46.66,13.33,6.67,6.67,2.49,,,,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,81337,Bilgili,23,7,30.43,57.14,28.57,0,0,0,4.67,11.54,26.93,38.46,7.69,3.85,2.44,1630,75,MW,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,82107,Hochwald,22,3,13.64,66.67,33.33,0,0,0,4.67,14.8,29.63,14.8,3.7,18.52,2.23,1630,75,TR,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,81343,Hoyt,30,8,26.67,50,37.5,0,0,0,4.57,25,11.11,19.43,8.33,19.44,2.2,1930,75,MW,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,81139,Bilgili,29,11,37.93,36.36,18.18,36.36,9.09,0,3.82,9.09,24.24,36.36,0,18.18,2.08,1200,75,MW,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,81138,Bilgili,35,10,28.57,10,50,30,0,10,3.5,2.86,34.29,34.28,2.86,22.86,1.87,1200,75,MW,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,81142,Bilgili,19,7,36.84,28.57,42.86,14.29,14.29,0,3.86,0,10.53,52.64,10.53,26.32,1.47,1200,75,MW,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,81345,Buzaianu,26,19,73.08,63.16,21.05,5.26,5.26,0,4.5,20.59,8.82,32.35,5.88,8.82,2.37,0925,75,TR,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,81144,Buzaianu,31,20,64.52,50,25,5,15,0,4.16,6.06,27.27,39.39,9.09,12.12,2.1,1030,75,MW,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,81065,Jia,30,13,43.33,46.15,30.77,23.08,0,0,4.23,23.33,43.33,26.67,6.67,0,2.83,1050,75,TR,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,81346,Arthur,27,5,18.52,100,0,0,0,0,5,6.25,25,15.63,12.5,18.75,1.84,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,81617,Razaila,20,15,75,46.67,20,33.33,0,0,4.13,21.74,26.08,30.44,4.35,4.35,2.67,1505,75,TR,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,82153,Stewart,35,10,28.57,80,20,0,0,0,4.8,25,22.22,36.11,5.56,8.33,2.53,0900,75,MW,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,81335,Buzaianu,11,7,63.64,28.57,71.43,0,0,0,4.29,16.67,16.66,41.66,8.33,8.33,2.33,1030,75,MW,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,80933,Jia,33,15,45.45,73.33,6.67,6.67,13.33,0,4.4,28.57,28.57,28.57,2.86,5.71,2.76,1050,75,TR,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,82592,Fletcher,30,7,23.33,0,0,28.57,28.57,28.57,2,9.68,19.35,16.13,16.13,32.26,1.54,1200,75,MW,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,82695,Razaila,33,22,66.67,27.27,27.27,22.73,18.18,4.55,3.55,5.56,27.78,33.33,2.78,19.44,1.97,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,81143,Buzaianu,27,19,70.37,31.58,10.53,36.84,5.26,0,3.81,20.59,20.58,26.47,2.94,8.82,2.54,1030,75,MW,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,80930,Jia,31,9,29.03,33.33,44.44,22.22,0,0,4.11,23.53,26.47,23.53,2.94,14.71,2.45,1050,75,TR,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,82591,Hoyt,29,11,37.93,45.45,9.09,18.18,18.18,9.09,3.64,9.09,36.36,18.18,9.09,15.15,2.19,1030,75,MW,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,81616,Safar,25,15,60,46.67,6.67,6.67,13.33,20,3.5,32.14,24.99,17.86,10.71,3.57,2.85,1340,75,TR,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,83806,Kennon,31,5,16.13,60,0,40,0,0,4.2,17.14,37.14,25.72,0,8.57,2.6,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,82152,Fletcher,31,9,29.03,44.44,44.44,0,0,0,4.5,0,26.46,29.4,14.71,20.59,1.72,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,83051,Mechmech,33,6,18.18,66.67,16.67,0,16.67,0,4.33,23.53,38.22,20.59,2.94,11.76,2.61,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,81145,Buzaianu,21,13,61.9,38.46,30.77,15.38,7.69,0,4.08,12.5,16.66,20.83,16.67,20.83,1.87,1030,75,MW,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,81336,Hochwald,27,9,33.33,33.33,22.22,22.22,11.11,11.11,3.56,8.57,25.71,25.72,11.43,5.71,2.28,1500,75,MW,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,80932,Jia,32,13,40.63,46.15,30.77,7.69,7.69,0,4.25,28.57,31.43,14.29,5.71,11.43,2.66,1050,75,TR,Remote Instruction,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2020,81344,Arthur,29,12,41.38,75,8.33,8.33,8.33,0,4.5,17.14,11.43,22.86,17.14,14.29,2,0800,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,81543,Razaila,29,19,65.52,36.84,26.32,21.05,5.26,10.53,3.74,20,22.86,34.28,0,5.71,2.63,1340,75,TR,10,1327,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,81886,Stewart,26,13,50,69.23,7.69,15.38,0,0,4.58,23.33,33.33,10,6.67,10,2.64,1330,75,MW,10,2411,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,81549,Moore,36,9,25,88.89,0,0,0,11.11,4.56,58.33,30.56,5.56,0,5.56,3.36,1505,75,TR,15,1202,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,81885,Fletcher,24,10,41.67,10,0,0,40,50,1.8,0,13.33,33.33,16.67,16.67,1.54,0900,75,MW,10,2411,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,81309,Fletcher,19,11,57.89,18.18,0,9.09,18.18,36.36,2.33,3.23,9.68,38.71,0,9.68,1.95,1030,75,MW,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,83419,Bilgili,33,12,36.36,8.33,0,16.67,41.67,25,2.18,12.12,12.12,60.59,6.06,9.09,2.2,1200,75,MW,10,1327,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,81745,Razaila,27,23,85.19,56.52,21.74,21.74,0,0,4.35,27.59,41.38,13.79,6.9,3.45,2.88,1505,75,TR,10,2411,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,81544,Rowe,28,9,32.14,11.11,22.22,44.44,22.22,0,3.22,9.68,19.36,32.26,12.9,16.13,1.92,1030,75,MW,15,1205,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,82700,Wludyka,34,11,32.35,36.36,18.18,9.09,0,36.36,3.18,13.51,16.22,35.14,0,21.62,2.04,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,83543,Wludyka,33,7,21.21,14.29,28.57,28.57,14.29,14.29,3.14,8.57,25.72,31.42,5.71,20,2,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,83989,Major,35,10,28.57,70,10,10,0,10,4.3,23.68,18.41,21.05,7.89,21.05,2.21,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,81304,Sa,29,17,58.62,47.06,17.65,23.53,5.88,5.88,3.94,17.14,31.43,22.86,2.86,8.57,2.7,1200,75,MW,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,82699,Wludyka,30,11,36.67,27.27,9.09,27.27,18.18,18.18,3.09,5.56,19.45,27.77,8.33,22.22,1.76,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,81059,Hoyt,34,10,29.41,40,10,20,0,20,3.56,20,11.43,37.15,2.86,20,2.11,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,81060,Hoyt,34,16,47.06,56.25,25,6.25,6.25,6.25,4.19,22.86,17.14,20,11.43,25.71,2.02,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,81551,Bilgili,33,14,42.42,14.29,7.14,35.71,28.57,14.29,2.79,2.78,13.89,52.78,5.56,16.67,1.85,0800,75,TR,15,1205,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,81214,Hoyt,34,13,38.24,46.15,15.38,15.38,7.69,0,4.18,22.86,22.86,20,8.57,22.86,2.2,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,83420,Inks,28,11,39.29,54.55,18.18,9.09,9.09,0,4.3,25,25.01,12.5,9.38,15.63,2.43,1215,75,TR,10,1319,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,81306,Sa,30,11,36.67,18.18,18.18,27.27,27.27,0,3.3,20,22.86,28.58,5.71,8.57,2.56,1200,75,MW,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,81310,Fletcher,9,4,44.44,0,25,25,0,50,2.25,23.08,15.38,23.08,7.69,0,2.78,1030,75,MW,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,81542,Belloit,31,15,48.39,40,33.33,20,0,0,4.21,22.86,25.71,20,2.86,11.43,2.58,1030,75,MW,10,1353,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,81539,Fletcher,11,2,18.18,0,0,0,100,0,2,7.14,7.14,28.57,0,28.57,1.5,1030,75,MW,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,81057,Hoyt,31,12,38.71,50,16.67,16.67,16.67,0,4,5.88,17.64,20.58,17.65,29.41,1.53,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,82638,Kennon,33,9,27.27,100,0,0,0,0,5,24.24,48.48,21.21,6.06,0,2.89,1930,75,TR,10,2411,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,81303,Sa,23,13,56.52,38.46,15.38,15.38,23.08,7.69,3.54,5.88,29.41,14.7,8.82,5.88,2.37,1200,75,MW,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,82633,Major,28,15,53.57,20,13.33,26.67,33.33,6.67,3.07,26.67,26.67,30,3.33,6.67,2.71,1030,75,MW,10,2411,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,81550,Miller,33,12,36.36,16.67,16.67,0,33.33,33.33,2.5,5.71,31.42,42.86,5.71,5.71,2.34,1800,75,MW,15,1202,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,81308,Fletcher,26,9,34.62,0,11.11,11.11,0,77.78,1.56,2.94,14.7,23.53,8.82,26.47,1.45,1030,75,MW,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,81552,Kennon,32,7,21.88,71.43,0,0,0,0,5,50.01,31.26,15.63,0,3.13,3.26,1800,75,TR,10,2411,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2019,81307,Sa,28,14,50,57.14,7.14,21.43,7.14,0,4.23,23.53,41.18,5.88,8.82,2.94,3,1200,75,MW,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Summer 2019,50092,Rowe,19,5,26.32,40,20,20,0,20,3.6,31.58,15.79,15.79,15.79,21.05,2.16,0900,100,TRF,10,1357,3,Elementary Statistics for Health and Social Sciences
+STA2014,Summer 2019,51644,Mechmech,40,14,35,64.29,28.57,0,0,0,4.69,31.82,22.73,27.27,4.55,2.27,2.87,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Summer 2019,51489,Wludyka,28,10,35.71,10,10,50,30,0,3,23.33,33.34,33.33,0,3.33,2.75,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Summer 2019,50093,Inks,29,16,55.17,43.75,31.25,0,6.25,12.5,3.93,27.27,21.21,12.12,9.09,18.18,2.36,1050,100,TRF,10,1341,3,Elementary Statistics for Health and Social Sciences
+STA2014,Summer 2019,50558,Mechmech,43,11,25.58,54.55,9.09,18.18,9.09,9.09,3.91,46.51,23.25,25.58,2.33,2.33,3.06,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2019,16241,Moore,40,10,25,80,10,0,0,0,4.89,55,42.5,0,0,0,3.58,1800,75,TR,10,1343,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2019,16239,Buzaianu,27,10,37.04,20,40,20,10,0,3.78,11.76,11.76,23.52,11.76,17.65,1.86,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2019,16070,Hoyt,33,8,24.24,50,50,0,0,0,4.5,15.79,34.21,15.79,13.16,7.89,2.41,1340,75,TR,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2019,16717,Razaila,32,14,43.75,35.71,7.14,14.29,21.43,21.43,3.14,37.14,17.14,22.86,0,11.43,2.79,1340,75,TR,10,1345,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2019,16069,Hoyt,34,11,32.35,72.73,18.18,9.09,0,0,4.64,15.79,21.05,42.1,5.26,5.26,2.42,1340,75,TR,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2019,18234,Han,15,9,60,44.44,55.56,0,0,0,4.44,73.33,26.67,0,0,0,3.63,1330,75,MW,2,2221,3,Elem Stats-Health/SS
+STA2014,Spring 2019,16066,Hoyt,36,9,25,66.67,22.22,11.11,0,0,4.56,28.21,17.95,20.51,15.38,10.26,2.42,1340,75,TR,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2019,16456,Arthur,37,16,43.24,50,12.5,31.25,0,0,4.2,22.5,22.5,35,7.5,2.5,2.61,1200,75,MW,10,1327,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2019,16716,Bowers,37,14,37.84,42.86,28.57,28.57,0,0,4.14,14.64,36.59,21.95,14.63,2.44,2.51,1630,75,MW,10,1319,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2019,16714,Hoyt,37,15,40.54,60,20,6.67,13.33,0,4.27,25,22.5,20,17.5,7.5,2.45,0900,75,MW,10,1319,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2019,16713,Moore,42,9,21.43,44.44,44.44,11.11,0,0,4.33,53.49,37.21,6.98,0,0,3.5,1930,75,TR,10,1327,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2019,16715,Razaila,36,13,36.11,23.08,15.38,15.38,15.38,30.77,2.85,25,27.5,15,7.5,12.5,2.51,1030,75,MW,10,1319,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2019,16238,Buzaianu,29,8,27.59,75,12.5,12.5,0,0,4.63,11.76,23.52,23.53,8.82,14.71,2.12,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2019,16718,Arthur,30,16,53.33,68.75,25,6.25,0,0,4.63,40,22.86,8.57,2.86,11.43,2.9,0925,75,TR,10,1319,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2019,16240,Buzaianu,38,6,15.79,33.33,50,16.67,0,0,4.17,14.63,19.51,26.83,14.63,17.07,2.01,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2019,16065,Hoyt,33,10,30.3,30,20,30,10,0,3.78,17.94,35.89,15.38,2.56,12.82,2.52,1340,75,TR,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2019,16071,Buzaianu,28,4,14.29,75,0,0,0,0,5,17.14,11.43,37.14,8.57,5.71,2.41,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2019,16932,Kennon,39,23,58.97,65.22,17.39,13.04,4.35,0,4.43,29.27,43.9,19.52,0,2.44,3.04,1505,75,TR,10,1319,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,81814,Kennon,35,8,22.86,25,50,25,0,0,4,54.29,28.57,11.42,0,5.71,3.28,0800,75,TR,2,2007,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,81512,Sa,31,7,22.58,28.57,28.57,28.57,0,0,4,40,22.86,17.14,8.57,0,3.13,1200,75,MW,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,81810,Buzaianu,32,14,43.75,64.29,14.29,14.29,0,0,4.54,26.47,8.82,32.36,20.59,5.88,2.36,1030,75,MW,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,81514,Sa,31,6,19.35,50,16.67,16.67,16.67,0,4,28.57,20,17.14,11.43,11.43,2.55,1200,75,MW,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,81824,Herrera,31,8,25.81,0,0,12.5,12.5,75,1.38,8.82,29.41,26.47,17.65,8.82,2.13,1340,75,TR,15,1202,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,83747,Wludyka,28,5,17.86,0,20,0,60,0,2.5,22.22,25,11.11,0,19.44,2.43,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,82481,Bowers,32,7,21.88,42.86,28.57,14.29,0,0,4.33,5.72,25.71,25.72,14.29,20,1.86,1630,75,MW,2,2002,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,82108,Herrera,24,9,37.5,0,0,0,0,100,1,9.09,21.21,21.21,9.09,12.12,2.08,1215,75,TR,15,1202,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,81200,Bilgili,26,6,23.08,33.33,0,33.33,16.67,16.67,3.17,9.37,15.63,28.13,9.38,15.63,1.92,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,81401,Bilgili,32,10,31.25,10,10,20,30,30,2.4,2.94,14.7,50,8.82,17.65,1.79,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,81199,Bilgili,28,10,35.71,10,30,10,20,30,2.7,5.71,11.42,28.57,17.14,14.29,1.71,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,81816,Moore,34,8,23.53,100,0,0,0,0,5,38.89,41.67,8.33,0,5.56,3.15,1800,75,MW,2,2002,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,83748,Wludyka,30,6,20,33.33,16.67,33.33,16.67,0,3.67,27.78,13.89,11.11,8.33,19.44,2.29,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,83676,Wludyka,24,6,25,0,16.67,0,33.33,50,1.83,20,23.33,30,3.33,3.33,2.72,1630,75,MW,10,2411,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,81197,Bilgili,25,10,40,0,0,10,60,20,1.89,0,20.58,26.47,11.76,14.71,1.72,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,83671,Wludyka,27,9,33.33,11.11,0,22.22,11.11,44.44,2.13,14.29,17.14,5.71,5.71,34.29,1.64,1630,75,TR,10,1343,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,82482,Fletcher,30,13,43.33,7.69,7.69,15.38,38.46,23.08,2.33,23.52,11.76,35.29,8.82,8.82,2.38,1930,75,TR,2,2002,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,81815,Kennon,35,7,20,100,0,0,0,0,5,54.28,20,17.14,0,2.86,3.34,0925,75,TR,2,2007,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,81826,Buzaianu,25,7,28,57.14,28.57,14.29,0,0,4.43,15.63,18.76,12.51,15.63,9.38,2.24,1505,75,TR,9,1233,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,81517,Buzaianu,34,15,44.12,73.33,0,13.33,6.67,0,4.5,22.86,22.86,31.43,11.43,8.57,2.46,1030,75,MW,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,81511,Sa,30,9,30,66.67,0,33.33,0,0,4.33,11.43,28.57,37.14,2.86,5.71,2.47,1200,75,MW,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,81518,Buzaianu,33,7,21.21,71.43,14.29,14.29,0,0,4.57,28.57,22.85,20,14.29,8.57,2.53,1030,75,MW,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,81516,Buzaianu,30,5,16.67,60,20,20,0,0,4.4,20.59,20.59,29.41,8.82,8.82,2.41,1030,75,MW,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,81823,Moore,33,4,12.12,50,25,25,0,0,4.25,42.42,33.33,24.24,0,0,3.18,1930,75,MW,2,2007,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,81825,Stewart,29,3,10.34,66.67,33.33,0,0,0,4.67,13.88,27.77,22.23,2.78,13.89,2.34,1030,75,MW,4,1702,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2018,81515,Sa,30,11,36.67,0,45.45,27.27,0,9.09,3.33,11.76,23.52,17.65,14.71,17.65,2,1200,75,MW,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Summer 2018,50769,Alayande,46,16,34.78,12.5,6.25,12.5,37.5,31.25,2.31,19.14,38.29,23.41,4.26,12.77,2.55,,,,Online,,3,Elementary Statistics for Health and Social Sciences
+STA2014,Summer 2018,50114,Alayande,34,9,26.47,11.11,11.11,22.22,22.22,22.22,2.63,2.86,20,40,11.43,20,1.79,1050,100,TRF,10,1343,3,Elementary Statistics for Health and Social Sciences
+STA2014,Summer 2018,50113,Herrera,23,11,47.83,9.09,27.27,9.09,27.27,18.18,2.8,11.54,26.92,23.08,15.38,11.54,2.13,0900,100,TRF,10,1343,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2018,11201,Hoyt,36,16,44.44,50,25,18.75,6.25,0,4.19,7.69,20.51,30.77,25.64,7.69,1.94,1340,75,TR,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2018,11418,Hoyt,30,12,40,75,25,0,0,0,4.75,24.32,27.02,21.62,2.7,5.41,2.77,1050,75,TR,15,1206,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2018,11204,Hoyt,33,15,45.45,66.67,20,13.33,0,0,4.53,15.79,13.16,15.79,13.16,26.32,1.74,1340,75,TR,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2018,11414,Rowe,29,7,24.14,57.14,0,14.29,14.29,14.29,3.71,6.26,15.63,25,12.5,31.25,1.48,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2018,12101,Moore,38,15,39.47,86.67,6.67,6.67,0,0,4.8,62.5,27.5,2.5,0,2.5,3.52,0900,165,S,10,1319,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2018,11699,Herrera,34,16,47.06,0,0,0,0,93.75,1,18.6,4.65,37.21,9.3,9.3,2.18,1500,75,MW,10,1327,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2018,11200,Hoyt,38,22,57.89,77.27,13.64,4.55,0,0,4.76,17.95,41.03,10.26,12.82,15.38,2.32,1340,75,TR,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2018,12100,Moore,42,16,38.1,56.25,31.25,6.25,0,6.25,4.31,52.38,28.57,9.52,0,7.14,3.19,1930,75,MW,51,1209,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2018,11205,Hoyt,35,13,37.14,53.85,15.38,15.38,7.69,0,4.25,13.16,18.41,21.05,15.79,21.05,1.87,1340,75,TR,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2018,11206,Rowe,28,11,39.29,45.45,36.36,0,9.09,9.09,4,6.26,21.89,18.75,9.38,25,1.62,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2018,11416,Rowe,29,11,37.93,9.09,18.18,36.36,0,27.27,2.8,18.18,15.14,21.21,3.03,30.3,1.9,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2018,12099,Moore,44,16,36.36,56.25,18.75,12.5,12.5,0,4.19,56.82,38.64,2.27,0,0,3.54,1800,75,MW,51,1209,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2018,12535,Alayande,29,15,51.72,13.33,6.67,26.67,13.33,33.33,2.5,9.09,24.24,48.48,6.06,0,2.41,1215,75,TR,10,1357,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2018,12102,Kennon,37,16,43.24,75,18.75,0,6.25,0,4.63,44.73,31.57,13.14,2.63,5.26,3.18,0800,75,TR,10,1357,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2018,12104,Bowers,30,13,43.33,38.46,46.15,0,15.38,0,4.08,31.43,14.28,22.86,5.71,11.43,2.56,1800,75,TR,10,1345,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2018,12103,Kennon,38,16,42.11,81.25,6.25,12.5,0,0,4.69,50,42.1,2.63,0,5.26,3.32,0925,75,TR,10,1357,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2018,11417,Herrera,35,14,40,0,0,14.29,28.57,57.14,1.57,14.63,21.95,24.39,9.76,14.63,2.13,1505,75,TR,10,1319,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2017,81349,Rowe,26,10,38.46,30,30,30,10,0,3.8,18.76,34.38,6.25,6.25,15.63,2.45,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2017,83073,Stewart,29,8,27.59,75,0,12.5,0,0,4.71,14.7,38.24,23.52,5.88,2.94,2.72,1030,75,MW,15,1206,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2017,81348,Rowe,26,8,30.77,37.5,0,12.5,37.5,12.5,3.13,11.43,20,14.29,5.71,22.86,1.92,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2017,81578,Rowe,26,12,46.15,25,16.67,8.33,16.67,33.33,2.83,21.21,15.14,27.27,6.06,9.09,2.41,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2017,82102,Hoyt,29,10,34.48,70,20,0,10,0,4.5,17.14,17.14,22.86,11.43,14.29,2.15,1215,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2017,82128,Rowe,24,7,29.17,14.29,14.29,14.29,14.29,42.86,2.43,11.76,17.64,17.64,2.94,20.59,1.92,1505,75,TR,10,1357,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2017,82126,Moore,34,14,41.18,78.57,14.29,7.14,0,0,4.71,31.43,42.86,8.57,0,11.43,2.88,0900,165,S,10,1341,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2017,81704,Sa,31,10,32.26,50,20,20,0,10,4,8.57,25.71,25.71,11.43,17.14,2.03,1200,75,MW,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2017,82125,Moore,34,8,23.53,100,0,0,0,0,5,54.29,40,2.86,0,0,3.53,1930,75,MW,10,1345,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2017,82108,Kennon,34,15,44.12,53.33,26.67,6.67,6.67,0,4.36,25.72,45.71,22.85,0,2.86,2.99,0800,75,TR,10,1345,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2017,82110,Moore,34,15,44.12,60,20,20,0,0,4.4,62.86,28.57,2.86,0,2.86,3.53,1800,75,MW,10,1345,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2017,82624,Herrera,29,13,44.83,0,0,0,23.08,61.54,1.27,16.67,16.67,25,8.33,13.89,2.17,1330,75,MW,9,1233,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2017,83074,Stewart,32,11,34.38,72.73,18.18,0,9.09,0,4.55,17.14,22.85,31.42,5.71,14.29,2.28,1330,75,MW,10,1357,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2017,81703,Sa,31,17,54.84,58.82,23.53,11.76,0,5.88,4.29,32.35,26.47,17.64,5.88,8.82,2.82,1200,75,MW,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2017,81705,Hoyt,33,12,36.36,83.33,16.67,0,0,0,4.83,25.71,31.43,22.86,2.86,11.43,2.62,1215,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2017,82109,Kennon,34,7,20.59,42.86,0,57.14,0,0,3.86,34.29,45.71,14.28,0,2.86,3.13,0925,75,TR,10,1345,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2017,81346,Rowe,24,14,58.33,28.57,28.57,7.14,14.29,21.43,3.29,18.75,18.76,9.38,12.5,15.63,2.13,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2017,81707,Hoyt,33,9,27.27,44.44,44.44,0,0,11.11,4.11,20,17.14,22.86,14.29,20,2.06,1215,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2017,82127,Herrera,29,12,41.38,0,25,8.33,33.33,25,2.36,20,17.14,14.29,5.71,25.71,1.98,1340,75,TR,10,1319,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2017,81701,Sa,23,12,52.17,50,8.33,16.67,8.33,16.67,3.67,11.43,11.43,20,11.43,11.43,2.05,1200,75,MW,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2017,81706,Hoyt,34,11,32.35,90.91,0,9.09,0,0,4.82,22.86,34.29,22.86,5.71,11.43,2.53,1215,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2017,81700,Sa,22,11,50,54.55,18.18,18.18,0,9.09,4.09,17.14,14.28,22.86,5.71,2.86,2.67,1200,75,MW,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Summer 2017,50128,Alayande,34,13,38.24,23.08,38.46,7.69,15.38,7.69,3.58,8.57,40,22.86,5.71,20,2.13,1050,100,TRF,10,1319,3,Elementary Statistics for Health and Social Sciences
+STA2014,Summer 2017,51229,Herrera,29,16,55.17,6.25,18.75,25,6.25,43.75,2.38,19.35,19.35,45.16,6.45,3.23,2.49,0900,100,TRF,15,1205,3,Elementary Statistics for Health and Social Sciences
+STA2014,Summer 2017,50127,Alayande,11,1,9.09,100,0,0,0,0,5,0,8.33,50,16.67,16.67,1.55,1430,100,TRF,15,1206,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2017,11630,Bilgili,27,10,37.04,20,0,20,20,40,2.4,0,11.76,41.18,11.76,11.76,1.7,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2017,11631,Bilgili,19,6,31.58,16.67,0,0,33.33,50,2,4.76,0,38.09,14.29,33.33,1.26,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2017,11632,Bilgili,25,11,44,27.27,27.27,9.09,9.09,27.27,3.18,0,11.11,44.44,0,37.04,1.34,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2017,11358,Hoyt,31,8,25.81,87.5,12.5,0,0,0,4.88,20,22.86,25.72,2.86,17.14,2.3,1340,75,TR,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2017,11354,Hoyt,34,14,41.18,64.29,35.71,0,0,0,4.64,37.14,17.14,11.43,5.71,25.71,2.36,1340,75,TR,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2017,12760,Bowers,31,15,48.39,60,13.33,6.67,13.33,6.67,4.07,14.29,28.58,17.14,5.71,22.86,2.08,1800,75,TR,10,1345,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2017,11353,Hoyt,32,14,43.75,71.43,14.29,7.14,0,0,4.69,25.71,22.86,22.86,14.29,5.71,2.54,1340,75,TR,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2017,13034,Mohr,11,6,54.55,33.33,33.33,16.67,0,16.67,3.67,38.46,46.15,0,0,0,3.4,0925,75,TR,15,1202,3,Elem Stats-Health/SS
+STA2014,Spring 2017,12755,Moore,34,16,47.06,81.25,6.25,12.5,0,0,4.69,48.57,28.57,20,0,0,3.29,1930,75,MW,10,1343,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2017,12756,Moore,39,14,35.9,71.43,14.29,0,0,0,4.83,45,37.5,15,0,0,3.31,0900,165,S,9,1233,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2017,12091,Herrera,31,17,54.84,0,0,11.76,17.65,70.59,1.41,20.59,26.47,29.41,5.88,8.82,2.46,1505,75,TR,8,2117,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2017,11633,Hoyt,34,11,32.35,90.91,9.09,0,0,0,4.91,52.78,16.67,16.66,0,5.56,3.24,1200,75,MW,15,1202,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2017,12757,Kennon,35,14,40,64.29,7.14,21.43,0,0,4.46,60,20,11.42,2.86,5.71,3.28,0800,75,TR,9,1233,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2017,12754,Moore,38,15,39.47,86.67,13.33,0,0,0,4.87,57.89,31.58,10.53,0,0,3.47,1800,75,MW,10,1357,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2017,12758,Kennon,37,15,40.54,66.67,20,6.67,0,0,4.64,64.87,24.33,8.11,0,2.7,3.43,0925,75,TR,9,1233,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2017,11357,Hoyt,31,7,22.58,57.14,28.57,0,0,0,4.67,17.14,11.43,42.86,14.29,2.86,2.32,1340,75,TR,15,1303,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2017,11634,Hoyt,35,10,28.57,60,30,10,0,0,4.5,35.14,21.62,24.32,0,13.51,2.73,1500,75,MW,15,1205,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2017,13310,Alayande,33,11,33.33,27.27,18.18,18.18,9.09,27.27,3.09,2.94,29.41,23.53,26.47,14.71,1.79,1215,75,TR,10,1319,3,Elementary Statistics for Health and Social Sciences
+STA2014,Spring 2017,11359,Bilgili,30,9,30,0,44.44,22.22,11.11,11.11,3.13,2.86,8.57,51.43,5.71,17.14,1.76,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2016,82065,Kennon,36,13,36.11,61.54,23.08,7.69,0,0,4.58,83.78,13.51,0,0,0,3.85,0925,75,TR,10,1357,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2016,82782,Sen,24,10,41.67,10,20,20,10,30,2.67,9.09,6.06,18.18,0,39.39,1.26,1200,75,MW,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2016,82801,Hoyt,32,14,43.75,50,35.71,7.14,0,7.14,4.21,22.86,31.43,28.57,8.57,0,2.76,1215,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2016,82774,Mohr,28,11,39.29,63.64,27.27,9.09,0,0,4.55,20.69,27.59,41.38,3.45,3.45,2.65,0950,50,TR,3,1341,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2016,82779,Sen,25,9,36,11.11,22.22,22.22,22.22,22.22,2.78,11.76,17.64,8.82,11.76,23.53,1.77,1200,75,MW,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2016,82060,Hoyt,34,20,58.82,65,25,10,0,0,4.55,51.35,18.92,10.81,0,10.81,3.09,1505,75,TR,3,1351,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2016,82799,Hoyt,35,16,45.71,75,6.25,6.25,0,12.5,4.31,22.86,37.14,20,14.29,5.71,2.59,1215,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2016,82780,Sen,22,8,36.36,25,12.5,25,25,12.5,3.13,12.12,18.18,15.14,9.09,12.12,2.16,1200,75,MW,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2016,82053,Bowers,23,9,39.13,66.67,22.22,11.11,0,0,4.56,7.41,37.04,14.8,7.41,18.52,2.17,1930,75,MW,10,1353,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2016,82052,Herrera,33,13,39.39,23.08,7.69,30.77,15.38,15.38,3.08,17.14,25.71,34.29,8.57,8.57,2.35,1330,75,MW,10,1357,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2016,82781,Sen,20,7,35,28.57,14.29,28.57,0,14.29,3.5,6.26,9.37,15.63,12.5,18.75,1.55,1200,75,MW,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2016,82775,Mohr,26,10,38.46,60,30,10,0,0,4.5,20.69,24.14,37.93,3.45,3.45,2.64,0950,50,TR,3,1341,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2016,82061,Hoyt,33,15,45.45,73.33,0,20,0,0,4.57,36.11,27.78,19.45,5.56,2.78,2.99,1500,75,MW,2,2212,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2016,82066,Radulovich,33,6,18.18,16.67,33.33,16.67,0,33.33,3,8.57,28.57,22.86,14.29,20,1.93,1930,75,TR,3,1351,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2016,81534,Buzaianu,31,15,48.39,66.67,13.33,13.33,0,0,4.57,14.7,38.23,29.41,8.82,0,2.64,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2016,81531,Buzaianu,30,12,40,58.33,25,16.67,0,0,4.42,21.21,24.24,21.21,18.18,6.06,2.4,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2016,81847,Buzaianu,31,14,45.16,42.86,28.57,14.29,7.14,0,4.15,25.71,25.72,22.86,8.57,5.71,2.62,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2016,83448,Feldman,30,9,30,22.22,55.56,11.11,0,11.11,3.78,14.29,14.29,40,5.71,8.57,2.24,0925,75,TR,10,1345,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2016,82064,Kennon,36,14,38.89,85.71,7.14,0,0,0,4.92,50,41.67,2.78,2.78,2.78,3.38,0800,75,TR,10,1357,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2016,81533,Buzaianu,34,17,50,52.94,35.29,5.88,0,0,4.5,19.44,22.22,30.55,8.33,13.89,2.31,1050,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2016,82800,Hoyt,30,13,43.33,46.15,15.38,15.38,15.38,0,4,22.86,20,22.86,14.29,5.71,2.5,1215,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences
+STA2014,Fall 2016,82802,Hoyt,33,14,42.42,35.71,21.43,28.57,7.14,0,3.92,22.86,28.57,20,11.43,11.43,2.44,1215,75,TR,15,1304,3,Elementary Statistics for Health and Social Sciences

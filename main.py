@@ -1,14 +1,24 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-
-df = pd.read_csv("./data/COP2220.csv")
+import os
+def file_selector(folder_path="./data/", type=""):
+        folder_path = folder_path + type
+        filenames = os.listdir(folder_path)
+        csvFiles = []
+        for file in filenames:
+            if "csv" in file:
+                csvFiles.append(file)
+        selected_filename = st.selectbox("Select " + type, csvFiles)
+        return os.path.join(folder_path, selected_filename)
+selectedFile = file_selector()
+df = pd.read_csv(selectedFile)
 simpleDF = df[["instructor", "average_gpa", "rating"]]
 
 fig = px.scatter(simpleDF, x='rating', y='average_gpa',
               color='instructor')
 
-st.header("COP2220 Rating vs GPA")
+st.header(str(selectedFile.replace("./data/", "").replace(".csv", "")) + " Rating vs GPA")
 st.plotly_chart(fig, use_container_width=True)
 
 meanDF = simpleDF
