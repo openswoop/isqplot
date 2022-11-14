@@ -28,7 +28,7 @@ groupedByInstructorRating = simpleDF.groupby(simpleDF["instructor"])['rating'].m
 col, col2 = st.columns(2)
 df_merged = pd.merge(groupedByInstructorGPA, groupedByInstructorRating, how="inner", on="instructor")
 col.dataframe(df_merged, width=300)
-try
+try:
         col2.header("Highest Rank: " + df_merged.idxmax())
 except:
         st.error("Not enough rows")
