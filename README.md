@@ -1,11 +1,38 @@
-ISQ Plot
-================
+# ISQ Plot
+
+## Python
+
+[main · Streamlit](https://andreasink-isqplot-main-2da7lj.streamlit.app/)
+
+### Dependencies
+
+> streamlit
+
+> pandas
+
+> plotly-express
+
+To install, simply run this code snippet in your terminal...
+
+`pip install -r requirements.txt`
+
+### Running locally
+
+To run the web app, simply run this code snippet in your terminal...
+
+`streamlit run main.py`
+
+### Deployment
+
+Open a PR and once merged, it'll update!
+
+## R
 
 ### Dependencies
 
 Figures are drawn using ggplot2.
 
-``` r
+```other
 library(ggplot2)
 library(ggplot2bdc)
 library(ggalt)
@@ -17,12 +44,16 @@ library(dplyr)
 ### Data
 
 This example uses data from Computer Science 1 from 2012-2018, available
-at [`data/COP2220.csv`](data/COP2220.csv). The code can be adapted to
+
+at `data/COP2220.csv`. The code can be adapted to
+
 use data from any source so long as all the required columns are
+
 satisfied. Check out [ISQool](https://github.com/rothso/isqool) to learn
+
 how to generate CSVs for other UNF courses.
 
-``` r
+```other
 fileName <- "COP2220"
 read_data <- function(fileName) {
   read.csv(paste0("data/", fileName, ".csv")) %>%
@@ -32,21 +63,24 @@ read_data <- function(fileName) {
 df <- read_data(fileName)
 ```
 
-| course  | term        | instructor | rating | average\_gpa |
-| :------ | :---------- | :--------- | -----: | -----------: |
-| COP2220 | Spring 2018 | Jethwani   |   3.38 |         2.91 |
-| COP2220 | Spring 2018 | Jethwani   |   3.71 |         2.11 |
-| COP2220 | Spring 2018 | Liu        |   3.14 |         2.59 |
-| COP2220 | Spring 2018 | Jethwani   |   2.86 |         3.15 |
-| COP2220 | Spring 2018 | Liu        |   3.16 |         2.92 |
-| COP2220 | Spring 2018 | Monsorno   |   2.46 |         2.37 |
+| **course** | **term**    | **instructor** | **rating** | **average_gpa** |
+| ---------- | ----------- | -------------- | ---------- | --------------- |
+| COP2220    | Spring 2018 | Jethwani       | 3.38       | 2.91            |
+| COP2220    | Spring 2018 | Jethwani       | 3.71       | 2.11            |
+| COP2220    | Spring 2018 | Liu            | 3.14       | 2.59            |
+| COP2220    | Spring 2018 | Jethwani       | 2.86       | 3.15            |
+| COP2220    | Spring 2018 | Liu            | 3.16       | 2.92            |
+| COP2220    | Spring 2018 | Monsorno       | 2.46       | 2.37            |
 
 Based on the file name, we can determine if the file represents one
+
 course and various professors, like above, or one professor and various
+
 courses. We’re plotting the *feature* that varies (as the other will be
+
 constant).
 
-``` r
+```other
 add_feature <- function(df, fileName) {
   isProfessor <- startsWith(fileName, "N") && nchar(fileName) == 9
   if(isProfessor) {
@@ -63,7 +97,7 @@ df <- add_feature(df, fileName)
 
 ### Scatter Plot
 
-``` r
+```other
 ggplot(df, aes(x = rating, y = average_gpa, color = feature)) +
 geom_encircle(aes(fill = feature), s_shape = 0.7, expand = 0.02, spread = 0.015, alpha = 0.1) +
 geom_text(aes(label = feature), nudge_y = -0.035, size = 3) +
@@ -82,31 +116,35 @@ theme_bdc_grey(grid.x = TRUE, grid.y = TRUE) +
 theme(legend.position = "right", legend.direction = "vertical", legend.title.align = 0)
 ```
 
-![](figs/scatterplot-1.png)<!-- -->
+![]()
 
 ### Focused Scatter Plot
 
 If a plot contains a lot of data (400+ points), it would be nice to
+
 differentiate only those points which we care about. We can highlight a
+
 specific professor we’re interested in by reducing our feature to just
+
 two levels.
 
-``` r
+```other
 highlight <- "Berry"
 df$feature <- ifelse(df$feature == highlight, highlight, "Other")
 ```
 
 Let’s gray out the other data points and use blue as our accent.
 
-``` r
+```other
 palette <- c("#003886", "#CCD7E7")
 names(palette) <- c(highlight, "Other")
 ```
 
 We’ll then adjust the `geom_text` to hide superfluous labels and move
+
 the `geom_points` behind the text.
 
-``` r
+```other
 ggplot(df, aes(rating, average_gpa, color = feature)) +
   geom_encircle(aes(fill = feature), s_shape = 0.7, expand = 0.02, spread = 0.015, alpha = 0.1) +
   geom_point() +
@@ -126,11 +164,11 @@ ggplot(df, aes(rating, average_gpa, color = feature)) +
   theme(legend.position = "right", legend.direction = "vertical", legend.title.align = 0)
 ```
 
-![](figs/focusplot-1.png)<!-- -->
+![]()
 
 #### Saving to an image
 
-``` r
+```other
 # Add a plot margin to make it look pretty
 last_plot() + theme(plot.margin = margin(2, 2, 2, 2, "cm"))
 
