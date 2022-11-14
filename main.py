@@ -31,4 +31,4 @@ col.dataframe(df_merged, width=300)
 try:
         col2.header("Highest Rank: " + df_merged.idxmax())
 except:
-        st.error("Not enough rows")
+        st.error("Not enough data")
