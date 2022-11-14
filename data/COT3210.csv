@@ -1,0 +1,19 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+COT3210,Summer 2022,54407,Asaithambi,19,3,15.79,33.33,33.33,0,0,0,4.5,9.52,28.57,23.81,19.05,9.52,2.11,1430,100,MTWR,Online,,3,Theory of Computation
+COT3210,Spring 2022,10064,Asaithambi,23,11,47.83,36.36,45.45,0,9.09,0,4.2,26.09,43.48,17.39,4.35,4.35,2.86,1050,75,TR,Online,,3,Theory of Computation
+COT3210,Fall 2021,88441,Asaithambi,36,24,66.67,58.33,25,8.33,0,0,4.55,14.63,46.34,14.63,4.88,7.32,2.64,1215,75,TR,Online,,3,Theory of Computation
+COT3210,Fall 2021,88440,Asaithambi,38,20,52.63,45,30,5,10,5,4.05,15.56,22.22,28.89,4.44,13.33,2.26,1050,75,TR,Online,,3,Theory of Computation
+COT3210,Summer 2021,53237,Asaithambi,12,4,33.33,50,25,0,0,25,3.75,26.67,40,13.33,0,0,3.17,1430,100,MTWR,Remote Instruction,,3,Theory of Computation
+COT3210,Spring 2021,10065,Asaithambi,18,9,50,66.67,11.11,22.22,0,0,4.44,22.73,31.82,4.55,9.09,13.64,2.5,1500,75,MW,Remote Instruction,,3,Theory of Computation
+COT3210,Fall 2020,81659,Asaithambi,37,22,59.46,50,27.27,18.18,0,4.55,4.18,35.9,33.33,20.51,5.13,0,3.05,1500,75,MW,Remote Instruction,,3,Theory of Computation
+COT3210,Fall 2020,82116,Asaithambi,38,27,71.05,55.56,29.63,7.41,0,0,4.52,36.59,36.59,19.51,0,0,3.18,1050,75,TR,Remote Instruction,,3,Theory of Computation
+COT3210,Fall 2019,81944,Asaithambi,38,26,68.42,80.77,11.54,3.85,0,0,4.8,30.95,26.19,23.81,4.76,4.76,2.82,1505,75,TR,15,1205,3,Computability and Automata
+COT3210,Fall 2019,82646,Roy,41,25,60.98,20,20,32,8,20,3.12,51.22,43.91,4.88,0,0,3.4,1050,75,TR,2,2010,3,Computability and Automata
+COT3210,Spring 2019,15085,Asaithambi,23,16,69.57,56.25,31.25,6.25,6.25,0,4.38,20,24,24,8,16,2.26,1340,75,TR,15,1206,3,Computability and Automata
+COT3210,Spring 2019,17852,Asaithambi,19,15,78.95,86.67,13.33,0,0,0,4.87,22.73,13.64,22.73,9.09,13.64,2.28,1505,75,TR,15,1206,3,Computability and Automata
+COT3210,Fall 2018,83685,Asaithambi,20,7,35,71.43,0,28.57,0,0,4.43,38.1,28.57,19.05,9.52,0,3,1330,75,MW,15,1206,3,Computability and Automata
+COT3210,Fall 2018,82604,Roy,47,13,27.66,46.15,23.08,30.77,0,0,4.15,21.28,70.2,8.52,0,0,3.14,1215,75,TR,4,1705,3,Computability and Automata
+COT3210,Spring 2018,10090,Asaithambi,40,17,42.5,58.82,29.41,11.76,0,0,4.47,13.04,23.91,32.61,13.04,2.17,2.38,1340,75,TR,2,1018,3,Computability and Automata
+COT3210,Fall 2017,83210,Asaithambi,50,18,36,83.33,11.11,5.56,0,0,4.78,16.36,27.27,32.72,1.82,12.73,2.36,1215,75,TR,15,1303,3,Computability and Automata
+COT3210,Spring 2017,10093,Asaithambi,38,7,18.42,57.14,42.86,0,0,0,4.57,16.28,32.56,27.91,9.3,2.33,2.58,1505,75,TR,3,1341,3,Computability and Automata
+COT3210,Fall 2016,82353,Asaithambi,34,13,38.24,46.15,15.38,23.08,7.69,7.69,3.85,15.91,40.9,15.91,0,4.55,2.82,0925,75,TR,3,1331,3,Computability and Automata

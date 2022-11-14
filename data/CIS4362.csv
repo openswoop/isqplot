@@ -1,0 +1,6 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+CIS4362,Fall 2020,81651,Roy,22,8,36.36,50,25,0,12.5,0,4.29,59.09,40.9,0,0,0,3.5,1505,75,TR,15,2202,3,Computer Cryptography
+CIS4362,Fall 2019,81925,Vakilinia,10,7,70,100,0,0,0,0,5,50,40,10,0,0,3.4,1200,75,MW,15,1206,3,Computer Cryptography
+CIS4362,Fall 2018,82578,Roy,28,4,14.29,50,25,0,0,0,4.67,25,71.43,3.57,0,0,3.17,1340,75,TR,15,1205,3,Computer Cryptography
+CIS4362,Fall 2017,83179,Roy,34,15,44.12,53.33,13.33,6.67,0,26.67,3.67,26.47,44.12,23.53,5.88,0,2.81,1340,75,TR,9,1233,3,Computer Cryptography
+CIS4362,Fall 2016,81932,Roy,30,15,50,60,13.33,13.33,6.67,0,4.36,23.34,60,13.33,3.33,0,3.07,1340,75,TR,2,1018,3,Computer Cryptography

@@ -1,0 +1,7 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+CIS4364,Fall 2021,86403,Roy,74,39,52.7,41.03,23.08,12.82,15.38,0,3.97,13.34,81.33,4,0,0,3.12,1330,75,MW,4,1705,3,Intrusion Detection
+CIS4364,Fall 2020,82709,Roy,56,22,39.29,22.73,13.64,36.36,9.09,9.09,3.35,26.79,71.43,1.79,0,0,3.26,1340,75,TR,Remote Instruction,,3,Intrusion Detection
+CIS4364,Fall 2019,83573,Roy,23,7,30.43,71.43,14.29,14.29,0,0,4.57,39.12,60.88,0,0,0,3.31,1340,75,TR,15,1205,3,Information Systems Intrusion Detection
+CIS4364,Spring 2019,17462,Roy,47,19,40.43,42.11,10.53,21.05,15.79,5.26,3.72,55.32,40.42,4.26,0,0,3.48,1050,75,TR,2,1018,3,Information Systems Intrusion Detection
+CIS4364,Spring 2018,13257,Roy,37,23,62.16,69.57,21.74,0,4.35,0,4.64,29.73,62.16,8.11,0,0,3.27,1050,75,TR,15,2203,3,Information Systems Intrusion Detection
+CIS4364,Spring 2017,10834,Roy,25,11,44,81.82,18.18,0,0,0,4.82,28,72,0,0,0,3.34,1505,75,TR,15,1205,3,Information Systems Intrusion Detection

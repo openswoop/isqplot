@@ -1,0 +1,15 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+COP3703,Summer 2022,54406,Snedden,55,21,38.18,47.62,23.81,9.52,4.76,4.76,4.16,35.71,46.43,12.5,0,3.57,3.13,1240,100,MW,15,3130,3,Introduction to Databases
+COP3703,Spring 2022,13158,Tarnowska,23,12,52.17,8.33,25,41.67,8.33,8.33,3.18,20.83,45.83,20.84,4.17,0,2.9,1630,75,TR,15,1203,3,Introduction to Databases
+COP3703,Spring 2022,12320,Kanewala,40,33,82.5,57.58,12.12,21.21,3.03,3.03,4.22,42.5,42.5,10,2.5,2.5,3.14,1215,75,TR,15,1205,3,Introduction to Databases
+COP3703,Spring 2022,12319,Kanewala,28,19,67.86,42.11,31.58,15.79,0,5.26,4.11,21.42,28.57,32.14,10.71,3.57,2.5,1050,75,TR,15,1205,3,Introduction to Databases
+COP3703,Fall 2021,86814,Tarnowska,41,19,46.34,15.79,15.79,10.53,10.53,31.58,2.69,31.7,17.07,31.71,14.63,4.88,2.52,1505,75,TR,15,1203,3,Introduction to Databases
+COP3703,Fall 2021,86815,Tarnowska,39,17,43.59,23.53,5.88,17.65,17.65,29.41,2.75,15,30,32.5,15,5,2.35,1630,75,TR,15,1205,3,Introduction to Databases
+COP3703,Fall 2021,86812,Kanewala,45,39,86.67,25.64,15.38,15.38,23.08,17.95,3.08,48.89,44.44,4.44,0,2.22,3.32,1340,75,TR,15,1203,3,Introduction to Databases
+COP3703,Summer 2021,53236,Jethwani,65,28,43.08,3.57,3.57,14.29,32.14,39.29,1.92,55.38,38.46,4.62,0,1.54,3.46,1240,100,TRF,Remote Instruction,,3,Introduction to Databases
+COP3703,Spring 2021,13110,Arafa,36,18,50,5.56,16.67,11.11,50,11.11,2.53,38.46,33.33,12.82,0,7.69,2.99,1215,75,TR,Remote Instruction,,3,Introduction to Databases
+COP3703,Spring 2021,12328,Arafa,22,17,77.27,11.76,5.88,11.76,17.65,52.94,2.06,23.08,34.62,19.23,7.69,0,2.85,1050,75,TR,Remote Instruction,,3,Introduction to Databases
+COP3703,Spring 2021,12327,Arafa,33,23,69.7,21.74,26.09,17.39,17.39,17.39,3.17,27.03,37.84,16.22,5.41,2.7,2.84,1200,75,MW,Remote Instruction,,3,Introduction to Databases
+COP3703,Fall 2020,83545,Arafa,42,20,47.62,0,15,5,25,55,1.8,28.57,40.48,19.05,2.38,7.14,2.84,1215,75,TR,15,1203,3,Introduction to Databases
+COP3703,Fall 2020,83547,Arafa,41,20,48.78,10,5,25,20,40,2.25,33.34,38.09,11.9,4.76,9.52,2.79,1340,75,TR,15,1203,3,Introduction to Databases
+COP3703,Fall 2020,83548,Arafa,41,23,56.1,4.35,26.09,17.39,13.04,39.13,2.43,45.23,23.8,16.67,7.14,4.76,2.99,1500,75,MW,51,1101,3,Introduction to Databases

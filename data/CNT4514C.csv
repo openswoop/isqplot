@@ -1,0 +1,4 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+CNT4514C,Spring 2019,15847,Prodanoff,44,27,61.36,33.33,25.93,33.33,7.41,0,3.85,65.91,27.27,6.82,0,0,3.59,1000,100,MW,15,1104,4,Wireless Networks and Mobile Computing
+CNT4514C,Spring 2018,10950,Prodanoff,43,21,48.84,23.81,28.57,9.52,14.29,19.05,3.25,44.19,53.49,2.33,0,0,3.42,1000,100,MW,15,1104,4,Wireless Networks and Mobile Computing
+CNT4514C,Spring 2017,11067,Prodanoff,22,8,36.36,50,37.5,12.5,0,0,4.38,81.81,18.18,0,0,0,3.82,1000,100,MW,15,3124,4,Wireless Networks and Mobile Computing

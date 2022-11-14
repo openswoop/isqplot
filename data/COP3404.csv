@@ -1,0 +1,13 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+COP3404,Spring 2022,13156,Piersall,17,7,41.18,42.86,14.29,42.86,0,0,4,72.23,22.22,0,0,0,3.75,1200,75,MW,4,1701,3,Introduction to Systems Software
+COP3404,Fall 2021,86804,Piersall,32,14,43.75,28.57,14.29,21.43,0,21.43,3.33,36.59,19.52,7.32,0,12.2,2.92,1215,75,TR,15,1205,3,Introduction to Systems Software
+COP3404,Fall 2021,87217,Piersall,37,17,45.95,76.47,5.88,11.76,0,0,4.69,57.14,16.67,7.14,0,7.14,3.32,1340,75,TR,15,1205,3,Introduction to Systems Software
+COP3404,Spring 2021,13101,Piersall,13,4,30.77,50,0,25,0,25,3.5,53.33,13.33,6.67,0,6.67,3.26,1050,75,TR,Remote Instruction,,3,Introduction to Systems Software
+COP3404,Fall 2020,84099,Piersall,32,22,68.75,36.36,13.64,18.18,27.27,4.55,3.5,36.59,12.2,12.2,2.44,12.2,2.83,1340,75,TR,Remote Instruction,,3,Introduction to Systems Software
+COP3404,Fall 2020,83535,Piersall,37,28,75.68,14.29,17.86,21.43,32.14,14.29,2.86,57.14,11.89,9.52,0,9.52,3.22,1215,75,TR,Remote Instruction,,3,Introduction to Systems Software
+COP3404,Spring 2019,15810,Eggen,36,14,38.89,71.43,7.14,14.29,0,0,4.62,25,33.33,30.54,0,8.33,2.79,1150,100,TR,4,1705,4,Introduction to Systems Software
+COP3404,Fall 2018,82586,Reddivari,48,11,22.92,54.55,18.18,27.27,0,0,4.27,34,36,22,0,2,3.17,1400,100,TR,2,1018,4,Introduction to Systems Software
+COP3404,Spring 2018,10907,Eggen,28,12,42.86,58.33,25,8.33,0,0,4.55,26.67,46.66,16.66,3.33,0,3.09,1550,100,TR,15,1206,4,Introduction to Systems Software
+COP3404,Fall 2017,83192,Ghosh,39,16,41.03,62.5,18.75,12.5,0,0,4.53,27.5,40,20,10,0,2.84,1000,100,TR,15,3130,4,Introduction to Systems Software
+COP3404,Spring 2017,11012,Reddivari,33,14,42.42,28.57,50,7.14,14.29,0,3.93,36.36,33.33,24.24,3.03,3.03,3.04,1200,100,TR,15,1206,4,Introduction to Systems Software
+COP3404,Fall 2016,81936,Reddivari,32,14,43.75,50,7.14,21.43,7.14,7.14,3.92,53.13,34.38,0,3.13,6.25,3.34,1200,100,TR,39A,1034,4,Introduction to Systems Software

@@ -1,0 +1,21 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+CIS4930,Summer 2022,55059,Kanewala,40,32,80,53.13,15.63,21.88,6.25,3.13,4.09,62.22,13.33,4.44,6.67,2.22,3.37,,,,Online,,3,ST: Intro to Python Prog.
+CIS4930,Fall 2021,88032,Doody,29,15,51.72,46.67,26.67,6.67,0,0,4.5,83.33,13.33,0,0,0,3.86,1800,75,TR,15,3126,3,ST: Mobile Apps and Game Dev
+CIS4930,Fall 2021,86974,Gomez,12,9,75,100,0,0,0,0,5,50,14.28,21.43,0,0,3.36,1800,75,MW,15,1104,3,ST: Web Dev Frameworks
+CIS4930,Fall 2021,87218,Piersall,26,14,53.85,71.43,14.29,7.14,7.14,0,4.5,0,0,0,0,0,0,1330,75,MW,15,1204,3,ST: Tech Entrepreneurship
+CIS4930,Spring 2021,13555,Gomez,16,9,56.25,100,0,0,0,0,5,56.25,31.25,6.25,6.25,0,3.34,1800,75,MW,Remote Instruction,,3,ST: Web Dev Frameworks
+CIS4930,Spring 2021,13074,Vakilinia,10,5,50,80,0,20,0,0,4.6,28.57,14.29,28.57,0,0,3.03,1500,75,MW,15,2202,3,ST: Game Theory
+CIS4930,Fall 2020,83783,Gomez,21,18,85.71,94.44,5.56,0,0,0,4.94,54.55,22.73,9.09,0,9.09,3.22,1800,75,MW,Remote Instruction,,3,ST: Web Dev Frameworks
+CIS4930,Fall 2019,83584,Vakilinia,10,5,50,80,20,0,0,0,4.8,54.55,9.09,18.18,9.09,0,3.2,1500,75,MW,2,2212,3,ST: Game Theory
+CIS4930,Summer 2019,51015,Snedden,55,19,34.55,78.95,10.53,0,5.26,0,4.72,76.79,21.43,0,0,0,3.81,,,,Online,,3,ST: Intro to Systems Admin
+CIS4930,Spring 2019,17222,Roy,15,5,33.33,40,20,0,20,0,4,6.67,53.33,40,0,0,2.69,1630,75,TR,4,1703,3,ST in CIS: Cyber Security Syst
+CIS4930,Spring 2019,17849,Dutta,21,8,38.1,12.5,12.5,50,12.5,0,3.29,50,31.82,13.64,0,0,3.4,1500,75,MW,15,1206,3,ST: Intro to Robotics
+CIS4930,Fall 2018,82579,Daniels,26,8,30.77,87.5,12.5,0,0,0,4.88,50,26.92,11.54,0,7.69,3.14,1215,75,TR,15,1205,3,Spec Topics: IT Project Mgmt
+CIS4930,Fall 2018,83027,Ghosh,7,4,57.14,50,25,25,0,0,4.25,44.44,33.33,0,0,0,3.53,1800,165,W,15,2203,3,ST: Geom Algor. and Data Struc
+CIS4930,Summer 2018,50864,Daniels,11,5,45.45,80,20,0,0,0,4.8,63.63,27.27,9.09,0,0,3.57,1620,100,TR,15,1205,3,IT Project Management
+CIS4930,Summer 2018,51444,Snedden,28,8,28.57,75,25,0,0,0,4.75,48.28,37.93,6.9,0,3.45,3.32,,,,Online,,3,ST: Intro to Systems Admin
+CIS4930,Spring 2018,12415,Daniels,39,12,30.77,50,50,0,0,0,4.5,25,50,7.5,10,0,2.91,1215,75,TR,51,1103,3,ST: IT Project Management
+CIS4930,Spring 2018,12949,Roy,23,17,73.91,58.82,5.88,11.76,11.76,5.88,4.06,29.17,45.83,20.83,0,0,3.11,1630,75,TR,2,2210,3,ST in CIS: Cyber Security Syst
+CIS4930,Fall 2017,83180,Daniels,22,11,50,90.91,0,0,0,0,5,27.28,59.09,13.64,0,0,3.16,1215,75,TR,15,1202,3,IT Project Management CIS 4930
+CIS4930,Summer 2017,51352,Daniels,11,11,100,100,0,0,0,0,5,33.33,58.33,0,0,0,3.28,1240,100,MW,15,1205,3,IT Project Management
+CIS4930,Spring 2017,13178,Daniels,36,17,47.22,76.47,17.65,0,0,5.88,4.59,36.84,50,7.89,0,0,3.28,1200,75,MW,51,1102,3,IT Project Management

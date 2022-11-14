@@ -1,0 +1,7 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+COP4610,Spring 2022,11982,Ahuja,67,30,44.78,56.67,23.33,13.33,0,0,4.46,40.3,44.78,11.94,2.99,0,3.23,,,,Online,,3,Operating Systems
+COP4610,Spring 2021,11990,Ahuja,51,29,56.86,34.48,27.59,13.79,3.45,10.34,3.81,23.07,51.92,21.15,0,1.92,2.98,1505,75,TR,Remote Instruction,,3,Operating Systems
+COP4610,Fall 2020,83538,Ahuja,13,6,46.15,83.33,16.67,0,0,0,4.83,38.46,46.15,15.38,0,0,3.23,1800,75,TR,Remote Instruction,,3,Operating Systems
+COP4610,Fall 2018,82591,Ahuja,48,14,29.17,57.14,35.71,0,7.14,0,4.43,38,36,18,4,0,3.19,1630,75,MW,4,1704,3,Operating Systems
+COP4610,Fall 2017,83197,Ahuja,42,16,38.1,56.25,25,12.5,0,0,4.47,37.21,44.18,13.95,0,2.33,3.19,1505,75,MW,15,1303,3,Operating Systems
+COP4610,Fall 2016,80437,Ahuja,40,16,40,56.25,25,6.25,0,6.25,4.33,46.34,39.01,9.76,2.44,0,3.38,1630,75,MW,3,1331,3,Operating Systems
