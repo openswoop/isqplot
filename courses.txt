@@ -1,0 +1,56 @@
+CAP4630: Introduction to Artificial Intelligence 3
+CAP4770: Data Mining 3
+CAP4784: Introduction to Data Analytics 3
+CDA3100: Computer Architecture and Organization 4
+CDA4010: User Interface Design 3
+CEN1361: Creating Mobile Apps 3
+CEN4010: Software Engineering 3
+CEN4083: Introduction to Cloud Computing 3
+CEN4535C: Development of Gaming and Mobile Applications 4
+CGS1100: Computer Applications for Business 3
+CGS1930: STEM LLC Seminar 0
+CGS3001: Current Trends in Computing Technology 1
+CIS2930: Special Topics in Computer and Information Sciences v. 1-4
+CIS2935: Honors Special Topics in Computer and Information Sciences 3
+CIS3253: Legal and Ethical Issues in Computing 3
+CIS3526: IT Project Management 3
+CIS3949: Experiential Studies in Computing v. 0-3
+CIS4100: System Performance and Evaluation 3
+CIS4325: Introduction to Systems Administration 3
+CIS4327: Information Systems Senior Project I 3
+CIS4328: Information Systems Senior Project II 3
+CIS4360: Introduction to Computer Security 3
+CIS4362: Computer Cryptography 3
+CIS4364: Intrusion Detection 3
+CIS4365: Computer Security Policies and Disaster Preparedness 3
+CIS4366: Computer Forensics 3
+CIS4618: Expert Systems and Decision Support 3
+CIS4900: Directed Independent Study v. 1-3
+CIS4910: G(W) Computing Honors Research 3
+CIS4930: Special Topics in Computer and Information Sciences v. 1-4
+CIS4955: Computing Honors 0
+CNT4406: Network Security and Management 3
+CNT4504: Computer Networks 3
+CNT4514C: Wireless Networks and Mobile Computing 4
+CNT4704: Network Design and Planning 3
+COP2220: Programming I 3
+COP2551: Introduction to Object Oriented Programming 3
+COP2800: Java/Javascript 3
+COP3331: Object-Oriented Programming in Java/JavaScript 3
+COP3404: Systems Programming 3
+COP3503: Programming II 3
+COP3530: Data Structures 3
+COP3703: Introduction to Databases 3
+COP3813: Internet Programming 3
+COP3855: Web Systems Development 4
+COP4610: Operating Systems 3
+COP4620: Construction of Language Translators 3
+COP4640: Operating Systems Environments 3
+COP4854: Web Frameworks 3
+COT3100: Computational Structures 3
+COT3210: Theory of Computation 3
+COT4111: Computational Structures II 3
+COT4400: Design and Analysis of Algorithms 3
+COT4461: Computational Biology 3
+COT4560: Applied Graph Theory 3
+IDC2000: The Beauty and Joy of Computing

@@ -1,0 +1,4 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+CAP4784,Spring 2022,12314,Dahshan,50,22,44,18.18,9.09,4.55,31.82,36.36,2.41,80.39,15.68,1.96,0,0,3.8,,,,Online,,3,Introduction to Data Analytics
+CAP4784,Spring 2022,13757,Reddivari,49,23,46.94,30.43,13.04,17.39,21.74,0,3.63,28.57,65.31,4.08,0,2.04,3.18,,,,Online,,3,Introduction to Data Analytics
+CAP4784,Spring 2021,12322,Umapathy,45,17,37.78,47.06,29.41,5.88,5.88,11.76,3.94,63.83,27.66,4.26,0,0,3.6,,,,Online,,3,Introduction to Data Analytics

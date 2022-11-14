@@ -1,0 +1,5 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+CEN4535C,Spring 2019,18229,Doody,29,9,31.03,66.67,0,33.33,0,0,4.33,75.86,20.69,3.45,0,0,3.72,1800,100,TR,15,3126,4,Development of Gaming and Mobile Applications
+CEN4535C,Fall 2018,82568,Prodanoff,36,14,38.89,21.43,7.14,21.43,35.71,14.29,2.86,40.54,54.05,0,0,2.7,3.33,1400,100,MW,15,1203,4,Development of Gaming and Mobile Applications
+CEN4535C,Fall 2017,83169,Chuan,24,9,37.5,88.89,11.11,0,0,0,4.89,79.17,12.51,4.17,0,4.17,3.64,1800,100,MW,15,3126,4,Development of Gaming and Mobile Applications
+CEN4535C,Fall 2016,81304,Chuan,13,5,38.46,80,20,0,0,0,4.8,42.86,35.71,14.28,0,0,3.33,1550,100,MW,15,3126,4,Development of Gaming and Mobile Applications

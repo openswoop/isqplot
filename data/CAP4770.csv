@@ -1,0 +1,4 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+CAP4770,Fall 2021,86798,Kahanda,26,20,76.92,45,40,15,0,0,4.3,18.52,48.14,29.63,0,0,2.92,1200,75,MW,51,1102,3,Data Mining
+CAP4770,Spring 2018,11583,Reddivari,14,6,42.86,83.33,0,0,16.67,0,4.5,42.86,57.14,0,0,0,3.43,1505,75,TR,15,1204,3,Data Mining
+CAP4770,Spring 2017,11865,Reddivari,21,3,14.29,66.67,0,33.33,0,0,4.33,18.18,68.18,4.55,4.55,0,3.2,1505,75,TR,15,1204,3,Data Mining
