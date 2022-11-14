@@ -24,7 +24,7 @@ To run the web app, simply run this code snippet in your terminal...
 
 ### Deployment
 
-Open a PR and once merged, it'll update!
+Open a PR and once merged, it'll update in the cloud!
 
 ## R
 
