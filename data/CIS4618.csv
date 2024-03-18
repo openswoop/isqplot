@@ -1,0 +1,4 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+CIS4618,Summer 2022,54811,Umapathy,32,14,43.75,28.57,21.43,0,28.57,21.43,3.07,68.56,22.86,0,0,0,3.66,,,,Online,,3,Expert Systems and Decision Support
+CIS4618,Summer 2018,50516,Umapathy,46,18,39.13,61.11,11.11,11.11,0,11.11,4.18,72.92,16.67,4.17,2.08,0,3.64,,,,Online,,3,Expert Systems and Decision Support
+CIS4618,Summer 2017,50760,Umapathy,38,17,44.74,41.18,5.88,23.53,23.53,0,3.69,79.49,12.82,2.56,2.56,0,3.71,,,,Online,,3,Expert Systems and Decision Support

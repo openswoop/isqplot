@@ -1,0 +1,19 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+CIS4360,Summer 2022,53798,Roy,18,14,77.78,64.29,28.57,0,0,0,4.69,61.11,38.89,0,0,0,3.56,1620,100,MTWR,15,2202,3,Introduction to Computer Security
+CIS4360,Spring 2022,11473,Roy,49,30,61.22,46.67,20,16.67,6.67,0,4.19,38.76,59.18,0,0,2.04,3.33,1500,75,MW,45,2403,3,Introduction to Computer Security
+CIS4360,Spring 2022,11946,Jethwani,45,19,42.22,31.58,42.11,21.05,5.26,0,4,24.44,33.33,42.22,0,0,2.82,1340,75,TR,51,1101,3,Introduction to Computer Security
+CIS4360,Fall 2021,85762,Roy,26,14,53.85,28.57,35.71,7.14,14.29,0,3.92,29.63,55.55,7.41,0,0,3.24,1200,75,MW,15,1206,3,Introduction to Computer Security
+CIS4360,Summer 2021,52135,Roy,38,21,55.26,23.81,28.57,9.52,28.57,0,3.53,47.37,52.64,0,0,0,3.49,1050,100,MTWR,Remote Instruction,,3,Introduction to Computer Security
+CIS4360,Spring 2021,11480,Roy,40,18,45,27.78,50,22.22,0,0,4.06,42.5,57.5,0,0,0,3.43,1200,75,MW,15,2202,3,Introduction to Computer Security
+CIS4360,Spring 2021,11954,Roy,50,23,46,34.78,17.39,26.09,13.04,4.35,3.68,60.78,33.33,3.92,0,0,3.47,1330,75,MW,Remote Instruction,,3,Introduction to Computer Security
+CIS4360,Fall 2020,81650,Vakilinia,29,18,62.07,61.11,38.89,0,0,0,4.61,48.27,34.48,13.79,0,3.45,3.21,1505,75,TR,4,1705,3,Introduction to Computer Security
+CIS4360,Fall 2019,81924,Roy,41,19,46.34,15.79,36.84,36.84,5.26,0,3.67,19.04,76.2,2.38,0,0,3.14,1200,75,MW,4,1705,3,Introduction to Computer Security
+CIS4360,Summer 2019,50544,Roy,19,5,26.32,40,20,20,0,0,4.25,57.9,31.58,10.52,0,0,3.43,1430,100,MTWR,15,1206,3,Introduction to Computer Security
+CIS4360,Spring 2019,17461,Roy,45,12,26.67,16.67,33.33,25,16.67,8.33,3.33,38.29,48.94,6.38,0,2.13,3.23,1215,75,TR,2,2010,3,Introduction to Computer Security
+CIS4360,Fall 2018,82577,Roy,49,15,30.61,40,26.67,26.67,6.67,0,4,28.57,53.06,16.32,2.04,0,3.08,0925,75,TR,2,2010,3,Introduction to Computer Security
+CIS4360,Summer 2018,50748,Roy,35,10,28.57,80,0,10,0,0,4.78,28.58,65.72,5.71,0,0,3.22,1430,100,MTWR,15,1205,3,Introduction to Computer Security
+CIS4360,Spring 2018,13256,Roy,49,29,59.18,79.31,10.34,6.9,0,0,4.75,26.53,57.14,14.28,0,2.04,3.06,1505,75,TR,2,2010,3,Introduction to Computer Security
+CIS4360,Fall 2017,83178,Roy,36,18,50,55.56,27.78,5.56,5.56,5.56,4.22,40.54,43.23,10.8,2.7,0,3.28,0925,75,TR,42,1105,3,Introduction to Computer Security
+CIS4360,Summer 2017,51202,Roy,19,5,26.32,80,0,0,0,20,4.2,47.37,47.37,5.26,0,0,3.42,1430,100,MTWR,39,2006,3,Introduction to Computer Security
+CIS4360,Spring 2017,10835,Roy,21,13,61.9,61.54,23.08,15.38,0,0,4.46,68.18,27.27,0,0,0,3.66,1050,75,TR,3,1341,3,Gen Cmp Security Adm
+CIS4360,Fall 2016,81938,Roy,36,16,44.44,31.25,37.5,12.5,6.25,0,4.07,30.54,50,16.66,2.78,0,3.08,0925,75,TR,15,1205,3,General Computer Security Administration

@@ -1,0 +1,8 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+CAP4630,Spring 2022,10979,Liu,67,50,74.63,18,16,36,18,12,3.1,27.14,38.57,22.86,4.29,2.86,2.87,1630,75,MW,51,1209,3,Introduction to Artificial Intelligence
+CAP4630,Spring 2021,10984,Dutta,49,24,48.98,29.17,37.5,25,4.17,0,3.96,41.82,27.27,7.28,3.64,7.27,3.01,1340,75,TR,Remote Instruction,,3,Introduction to Artificial Intelligence
+CAP4630,Fall 2020,82707,Dutta,19,13,68.42,46.15,15.38,30.77,0,0,4.17,25,20.83,25,0,4.17,2.8,1500,75,MW,51,1209,3,Introduction to Artificial Intelligence
+CAP4630,Fall 2019,83555,Dutta,19,15,78.95,26.67,53.33,0,6.67,6.67,3.93,23.08,30.77,15.38,0,3.85,2.99,1500,75,MW,4,1703,3,Introduction to Artificial Intelligence
+CAP4630,Spring 2019,16349,Liu,25,5,20,40,40,20,0,0,4.2,29.03,29.03,22.58,0,0,3.08,1630,75,MW,15,1205,3,Introduction to Artificial Intelligence
+CAP4630,Spring 2018,11563,Liu,24,11,45.83,18.18,27.27,27.27,18.18,9.09,3.27,16.13,38.71,12.9,3.23,3.23,2.83,1800,75,TR,15,1205,3,Introduction to Artificial Intelligence
+CAP4630,Spring 2017,11835,Chuan,32,14,43.75,28.57,35.71,21.43,7.14,7.14,3.71,41.67,38.89,5.56,2.78,0,3.24,1800,75,MW,15,1205,3,Introduction to Artificial Intelligence

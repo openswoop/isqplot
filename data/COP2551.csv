@@ -1,0 +1,13 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+COP2551,Fall 2021,87781,Galanti,9,4,44.44,100,0,0,0,0,5,60,20,0,0,10,3.3,1800,165,W,Online,,3,Introduction to Object Oriented Programming
+COP2551,Fall 2021,87781,Klostermeyer,9,2,22.22,50,0,0,0,0,5,0,0,0,0,0,0,,,,,,,
+COP2551,Spring 2019,16936,Ghosh,25,11,44,81.82,9.09,9.09,0,0,4.73,51.72,6.9,17.24,10.34,0,3.15,1215,75,TR,15,1203,3,Introduction to Object Oriented Programming
+COP2551,Fall 2018,82585,Dutta,35,16,45.71,62.5,12.5,18.75,6.25,0,4.31,45.23,23.81,2.38,0,9.52,3.15,1050,75,TR,15,1203,3,Introduction to Object Oriented Programming
+COP2551,Summer 2018,50753,Reddivari,13,7,53.85,42.86,14.29,28.57,0,0,4.17,46.15,23.08,15.38,0,15.38,2.85,1240,100,MWF,15,1204,3,Introduction to Object Oriented Programming
+COP2551,Spring 2018,12550,Ghosh,36,10,27.78,40,30,20,0,10,3.9,26.83,9.76,21.96,29.27,0,2.41,1330,75,MW,15,1203,3,Introduction to Object Oriented Programming
+COP2551,Fall 2017,83191,Dutta,35,19,54.29,52.63,15.79,15.79,15.79,0,4.05,27.5,40,7.5,0,10,2.84,1215,75,TR,50,3124,3,Introduction to Object Oriented Programming
+COP2551,Fall 2017,83470,Littleton,17,6,35.29,33.33,0,0,33.33,16.67,3,27.28,27.27,9.09,0,13.64,2.62,1215,75,TR,15,1203,3,Introduction to Object Oriented Programming
+COP2551,Summer 2017,51209,Littleton,24,9,37.5,55.56,33.33,11.11,0,0,4.44,57.14,14.28,0,0,14.29,3.14,1430,100,MTWR,15,1203,3,Introduction to Object Oriented Programming
+COP2551,Spring 2017,10833,Leas,21,9,42.86,0,11.11,33.33,22.22,22.22,2.38,10.71,10.71,21.43,10.71,21.43,1.74,1330,75,MW,15,1104,3,Introduction to Object Oriented Programming
+COP2551,Spring 2017,13328,Littleton,24,5,20.83,40,20,20,0,20,3.6,35.71,14.28,10.71,0,25,2.4,1330,75,MW,15,1203,3,Introduction to Object Oriented Programming
+COP2551,Fall 2016,80436,Littleton,37,15,40.54,33.33,46.67,13.33,0,6.67,4,39.58,10.42,14.59,0,12.5,2.84,1500,75,MW,50,3124,3,Introduction to Object Oriented Programming

@@ -1,0 +1,5 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+CDA3100,Spring 2022,12311,Littleton,60,48,80,79.17,10.42,4.17,4.17,0,4.68,67.73,19.36,6.45,0,3.23,3.51,1000,100,MW,4,1706,4,Computer Architecture and Organization
+CDA3100,Spring 2022,12312,Littleton,50,40,80,75,10,5,0,0,4.78,76.93,17.3,0,1.92,0,3.77,1000,100,TR,51,1209,4,Computer Architecture and Organization
+CDA3100,Spring 2021,12319,Littleton,52,30,57.69,70,13.33,13.33,0,3.33,4.47,66.07,12.5,10.71,0,3.57,3.45,1000,100,MW,15,1203,4,Computer Architecture and Organization
+CDA3100,Spring 2021,12320,Littleton,49,34,69.39,55.88,32.35,5.88,0,0,4.53,64.91,14.04,5.26,0,1.75,3.62,,,,Remote Instruction,,4,Computer Architecture and Organization

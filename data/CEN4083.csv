@@ -1,0 +1,6 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+CEN4083,Spring 2022,12315,Ahuja,36,15,41.67,46.67,26.67,20,0,0,4.29,61.54,23.08,2.56,0,2.56,3.57,,,,Online,,3,Introduction to Cloud Computing
+CEN4083,Spring 2022,13114,Ahuja,51,22,43.14,36.36,22.73,27.27,4.55,4.55,3.86,58.82,33.33,5.88,1.96,0,3.5,,,,Online,,3,Introduction to Cloud Computing
+CEN4083,Summer 2021,53232,Ahuja,24,7,29.17,42.86,14.29,42.86,0,0,4,40,52,4,0,0,3.41,1810,100,MTWR,Remote Instruction,,3,Introduction to Cloud Computing
+CEN4083,Spring 2021,12323,Ahuja,45,21,46.67,28.57,23.81,14.29,14.29,14.29,3.4,31.91,57.45,4.26,2.13,0,3.31,1800,75,TR,Remote Instruction,,3,Introduction to Cloud Computing
+CEN4083,Spring 2021,13678,Ahuja,16,10,62.5,50,30,10,0,0,4.44,25,62.5,12.5,0,0,3.14,1630,75,TR,Remote Instruction,,3,Introduction to Cloud Computing

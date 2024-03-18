@@ -1,0 +1,12 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+COP4640,Fall 2021,85768,Littleton,65,42,64.62,69.05,14.29,4.76,4.76,2.38,4.5,63.64,25.76,6.06,1.52,1.52,3.51,1500,75,MW,51,1209,3,Operating Systems Environments
+COP4640,Fall 2021,88309,Littleton,29,14,48.28,78.57,7.14,0,0,0,4.92,79.31,10.35,3.45,0,6.9,3.51,1050,75,TR,51,1101,3,Operating Systems Environments
+COP4640,Fall 2020,81656,Littleton,53,32,60.38,81.25,12.5,0,3.13,3.13,4.66,61.11,25.92,5.56,0,5.56,3.36,1500,75,MW,4,1704,3,Operating Systems Environments
+COP4640,Fall 2019,83659,Littleton,45,10,22.22,40,10,30,10,10,3.6,80,13.33,4.44,0,2.22,3.66,,,,Online,,3,Operating Systems Environments and Administration
+COP4640,Fall 2019,81939,Littleton,45,20,44.44,35,20,30,10,0,3.84,78.73,17.02,0,0,0,3.82,,,,Online,,3,Operating Systems Environments and Administration
+COP4640,Spring 2019,16567,Littleton,67,31,46.27,48.39,25.81,16.13,6.45,3.23,4.1,68.12,14.5,11.59,0,2.9,3.48,,,,Online,,3,Operating Systems Environments and Administration
+COP4640,Fall 2018,82595,Littleton,42,11,26.19,45.45,0,9.09,9.09,27.27,3.3,86.05,9.3,2.33,0,0,3.82,,,,Online,,3,Operating Systems Environments and Administration
+COP4640,Spring 2018,11848,Littleton,58,28,48.28,25,17.86,17.86,25,14.29,3.14,41.93,35.48,9.68,0,6.45,3.12,,,,Online,,3,Operating Systems Environments and Administration
+COP4640,Fall 2017,83201,Littleton,42,15,35.71,80,20,0,0,0,4.8,83.33,7.14,4.76,0,4.76,3.59,1050,75,TR,39A,1028,3,Operating Systems Environments and Administration
+COP4640,Spring 2017,12347,Leas,37,12,32.43,41.67,50,8.33,0,0,4.33,23.08,51.29,12.82,5.13,2.56,2.97,1800,75,TR,15,1205,3,Operating Systems Environments and Administration
+COP4640,Fall 2016,81937,Littleton,32,8,25,50,25,12.5,0,0,4.43,46.88,37.51,15.63,0,0,3.26,1050,75,TR,3,1381,3,Operating Systems Environments and Administration

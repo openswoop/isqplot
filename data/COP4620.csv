@@ -1,0 +1,12 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+COP4620,Spring 2022,12321,Kahanda,60,50,83.33,52,28,10,2,0,4.41,54.09,27.88,9.84,4.92,1.64,3.2,1500,75,MW,51,1205,3,Construction of Language Translators
+COP4620,Fall 2021,86978,Kahanda,22,17,77.27,64.71,11.76,11.76,5.88,0,4.44,41.66,12.51,12.5,8.33,12.5,2.64,1500,75,MW,51,1101,3,Construction of Language Translators
+COP4620,Spring 2021,12329,Kahanda,45,37,82.22,29.73,35.14,16.22,8.11,5.41,3.8,56.52,36.95,2.17,0,2.17,3.42,1500,75,MW,Remote Instruction,,3,Construction of Language Translators
+COP4620,Fall 2020,83541,Kahanda,11,9,81.82,77.78,22.22,0,0,0,4.78,50,16.67,16.67,0,8.33,3.06,1330,75,MW,15,1205,3,Construction of Language Translators
+COP4620,Fall 2020,83787,Kahanda,15,13,86.67,69.23,15.38,0,0,0,4.82,60,20,20,0,0,3.4,1500,75,MW,15,1205,3,Construction of Language Translators
+COP4620,Spring 2019,16568,Eggen,45,13,28.89,61.54,23.08,7.69,7.69,0,4.38,39.58,35.42,14.58,0,4.17,3.09,1400,100,TR,4,1706,4,Construction of Language Translators
+COP4620,Fall 2018,82593,Eggen,25,7,28,57.14,28.57,0,0,14.29,4.14,25.92,22.22,37.04,7.41,0,2.83,1400,100,TR,4,1703,4,Construction of Language Translators
+COP4620,Spring 2018,11849,Eggen,37,18,48.65,83.33,11.11,5.56,0,0,4.78,25.63,41.03,17.95,2.56,7.69,2.79,1200,100,TR,15,1205,4,Construction of Language Translators
+COP4620,Fall 2017,83199,Eggen,29,13,44.83,92.31,7.69,0,0,0,4.92,31.25,34.39,15.63,0,6.25,2.95,1550,100,TR,39A,1034,4,Construction of Language Translators
+COP4620,Spring 2017,12348,Eggen,28,7,25,42.86,28.57,14.29,0,0,4.33,15.14,42.42,15.14,6.06,3.03,2.82,1200,100,TR,15,1205,4,Construction of Language Translators
+COP4620,Fall 2016,82476,Eggen,29,11,37.93,63.64,18.18,9.09,0,0,4.6,11.43,45.71,22.86,2.86,0,2.84,1550,100,TR,15,1205,4,Construction of Language Translators

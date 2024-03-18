@@ -1,0 +1,4 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+COT4111,Spring 2021,13556,Genova,10,10,100,60,40,0,0,0,4.6,54.54,27.27,0,0,9.09,3.33,1630,75,MW,Remote Instruction,,3,Computational Structures II
+COT4111,Spring 2019,18400,Genova,4,2,50,100,0,0,0,0,5,25,12.5,12.5,0,0,3.25,1505,75,TR,10,1339,3,Computational Structures II
+COT4111,Spring 2017,13177,Genova,11,3,27.27,33.33,0,33.33,0,0,4,28.57,14.29,14.29,0,14.29,2.48,1200,75,MW,10,1327,3,Computational Structures II

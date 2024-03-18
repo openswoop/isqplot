@@ -1,0 +1,18 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+COP3855,Summer 2022,53801,Jethwani,12,9,75,55.56,33.33,11.11,0,0,4.44,58.33,25,16.67,0,0,3.42,1050,100,TWRF,15,1104,4,Web Systems Development
+COP3855,Spring 2022,11102,Umapathy,54,24,44.44,20.83,25,16.67,16.67,12.5,3.27,72.72,20,5.45,0,0,3.56,1150,100,MW,15,3130,4,Web Systems Development
+COP3855,Spring 2022,13914,Jethwani,8,4,50,25,25,50,0,0,3.75,12.5,87.5,0,0,0,3.13,1000,100,TR,15,1104,4,Web Systems Development
+COP3855,Fall 2021,85767,Jethwani,55,25,45.45,12,28,24,8,28,2.88,33.93,48.21,14.29,0,1.79,3.15,1000,100,MW,15,3130,4,Web Systems Development
+COP3855,Summer 2021,52140,Jethwani,30,16,53.33,31.25,18.75,25,12.5,0,3.79,46.67,40,13.33,0,0,3.33,1050,100,TWRF,Remote Instruction,,4,Web Systems Development
+COP3855,Spring 2021,11107,Jethwani,61,32,52.46,18.75,28.13,28.13,15.63,9.38,3.31,45.16,45.16,4.84,1.61,1.61,3.33,1000,100,TR,15,1104,4,Web Systems Development
+COP3855,Fall 2020,81655,Jethwani,34,12,35.29,58.33,16.67,0,8.33,16.67,3.92,36.84,28.95,10.53,0,13.16,2.85,1000,100,MW,15,1203,4,Web Systems Development
+COP3855,Fall 2019,81935,Jethwani,30,11,36.67,36.36,9.09,9.09,27.27,18.18,3.18,56.67,36.67,3.33,0,3.33,3.43,1000,100,MW,15,1203,4,Web Systems Development
+COP3855,Summer 2019,50551,Jethwani,8,3,37.5,33.33,0,33.33,0,33.33,3,62.5,25,12.5,0,0,3.5,1240,100,TWRF,15,1104,4,Web Systems Development
+COP3855,Spring 2019,16566,Jethwani,34,13,38.24,0,15.38,30.77,23.08,23.08,2.42,71.43,17.14,5.71,0,0,3.7,1150,100,MW,15,1104,4,Web Systems Development
+COP3855,Fall 2018,82590,Jethwani,14,6,42.86,0,33.33,16.67,16.67,33.33,2.5,50,31.25,0,0,6.25,3.36,1400,100,TR,15,1104,4,Web Systems Development
+COP3855,Summer 2018,50758,Jethwani,9,5,55.56,20,20,20,0,40,2.8,0,0,0,0,0,0,1430,100,TWRF,15,1104,4,Web Systems Development
+COP3855,Spring 2018,11847,Umapathy,39,18,46.15,33.33,16.67,22.22,5.56,16.67,3.47,62.5,30,2.5,0,2.5,3.52,1550,100,MW,15,1104,4,Web Systems Development
+COP3855,Fall 2017,83196,Umapathy,17,2,11.76,0,50,50,0,0,3.5,41.18,58.82,0,0,0,3.46,1400,100,TR,15,3124,4,Web Systems Development
+COP3855,Summer 2017,51214,Harris,14,9,64.29,0,0,0,22.22,66.67,1.25,42.85,57.14,0,0,0,3.45,,,,Online,,4,Web Systems Development
+COP3855,Spring 2017,12345,Harris,30,29,96.67,13.79,13.79,34.48,17.24,17.24,2.89,46.88,31.25,12.51,0,3.13,3.23,1550,100,MW,15,1104,4,Web Systems Development
+COP3855,Fall 2016,80776,Harris,20,7,35,28.57,0,0,0,71.43,2.14,85.72,9.52,0,0,0,3.84,1400,100,TR,15,3124,4,Web Systems Development

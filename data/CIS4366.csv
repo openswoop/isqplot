@@ -1,0 +1,9 @@
+course,term,crn,instructor,enrolled,responded,response_rate,percent_5,percent_4,percent_3,percent_2,percent_1,rating,A,B,C,D,F,average_gpa,start_time,duration,days,building,room,credits,title
+CIS4366,Fall 2021,86404,LaValley,31,24,77.42,45.83,29.17,16.67,8.33,0,4.13,70.95,22.58,6.46,0,0,3.56,1630,75,MW,15,2202,3,Computer Forensics
+CIS4366,Fall 2021,87222,LaValley,23,19,82.61,73.68,21.05,5.26,0,0,4.68,52.17,43.48,4.34,0,0,3.52,1800,75,MW,15,2202,3,Computer Forensics
+CIS4366,Fall 2021,88179,Lentz,24,9,37.5,66.67,22.22,0,0,0,4.75,28,52,12,0,4,3.04,1630,75,TR,15,2202,3,Computer Forensics
+CIS4366,Fall 2020,82710,LaValley,24,12,50,58.33,8.33,8.33,8.33,0,4.4,66.67,25,8.33,0,0,3.56,1630,75,MW,15,2202,3,Computer Forensics
+CIS4366,Fall 2020,84104,LaValley,24,9,37.5,66.67,33.33,0,0,0,4.67,66.67,20.83,12.5,0,0,3.54,1800,75,MW,15,2202,3,Computer Forensics
+CIS4366,Fall 2019,83574,LaValley,21,7,33.33,100,0,0,0,0,5,52.39,42.86,0,0,4.76,3.32,1630,75,MW,15,2202,3,Computer Forensics
+CIS4366,Spring 2019,17846,LaValley,14,7,50,100,0,0,0,0,5,35.71,64.28,0,0,0,3.42,1215,75,TR,15,1205,3,Computer Forensics
+CIS4366,Spring 2017,11001,Roy,19,10,52.63,70,10,10,0,0,4.67,31.58,68.42,0,0,0,3.28,1340,75,TR,15,1204,3,Computer Forensics
